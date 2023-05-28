@@ -1,0 +1,848 @@
+[
+  {
+    "created": 1683835225000,
+    "local_date": "2023-05-25",
+    "local_time": "18:00",
+    "name": "PRUG May 2023",
+    "venue": {
+      "id": 27458916,
+      "name": "Snowdog",
+      "lat": 52.40456008911133,
+      "lon": 16.940555572509766,
+      "repinned": true,
+      "address_1": "Mostowa 11",
+      "city": "Pozna",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/293475324/",
+    "description": "<p>Hello there!</p> <p>We are going to revisit again mostowa11.space !<br/>This is last one meetup before summer!<br/>Agenda:</p> <p>1 LT: Chris Hasiski - 2023<br/>2 LT: FREE slot!<br/>3 LT: Piotr Wasiak - Enhance your console experience</p> <p>Networking: coffee, tea ,</p> <p>Partner:<br/>[Mionicy Ruby](<a href=\"https://www.facebook.com/milosnicyruby\" class=\"linkified\">https://www.facebook.com/milosnicyruby</a>)</p> "
+  },
+  {
+    "created": 1678723794000,
+    "local_date": "2023-03-30",
+    "local_time": "18:00",
+    "name": "PRUG March 2023",
+    "venue": {
+      "id": 27458916,
+      "name": "Snowdog",
+      "lat": 52.40456008911133,
+      "lon": 16.940555572509766,
+      "repinned": true,
+      "address_1": "Mostowa 11",
+      "city": "Pozna",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/292212958/",
+    "description": "<p>Hello there!</p> <p>raise Exception, \"again, **last** Thursday of March :D\"</p> <p>Agenda:<br/>1 Bartek Suchodolski - \"Token Driven Development in Ruby - Bridging the gap between FP and OOP.\"<br/>2 LT section - free slots as always!<br/>LT: Andrzej Lisiecki \"Unicode html/JavaScript browser\"<br/>Break: coffee, tea , networking<br/>3 TBA - free presentation slot</p> <p>Partner:<br/>[Polish Ruby User Group](<a href=\"https://plrug.pl/\" class=\"linkified\">https://plrug.pl/</a>)</p> "
+  },
+  {
+    "created": 1675598256000,
+    "local_date": "2023-02-28",
+    "local_time": "18:00",
+    "name": "PRUG February 2023 Tuesday DDD edition",
+    "venue": {
+      "id": 27458916,
+      "name": "Snowdog",
+      "lat": 52.40456008911133,
+      "lon": 16.940555572509766,
+      "repinned": true,
+      "address_1": "Mostowa 11",
+      "city": "Pozna",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/291421444/",
+    "description": "<p>Hello there!</p> <p>Exceptionally we are going to organise this PRUG on Tuesday.</p> <p>Pawe comes from Warsaw with 2 presentations (2 x 45 min) after flat one year from his PRUG talk. We will talk about Domain Driven Design architecture.</p> <p>Agenda:<br/>1 Pawe Strzakowski - Introduction to Domain-Driven Design in Ruby on Rails<br/>2 LT section<br/>Jakub Kisielewski - \"Czas to pienidz! - Krtko o efektywnym wykorzystaniu IDE\"<br/>Break: Pizza Pizza  + coffee, tea , networking<br/>3 Pawe Strzakowski - How to fit DDD concepts into a plain Ruby on Rails app</p> <p>Sponsor:</p> <p>***</p> <p>Partner:<br/>[Polish Ruby User Group](<a href=\"https://plrug.pl/\" class=\"linkified\">https://plrug.pl/</a>)</p> "
+  },
+  {
+    "created": 1673464561000,
+    "local_date": "2023-01-26",
+    "local_time": "18:00",
+    "name": "PRUG January 2023",
+    "venue": {
+      "id": 27458916,
+      "name": "Snowdog",
+      "lat": 52.40456008911133,
+      "lon": 16.940555572509766,
+      "repinned": true,
+      "address_1": "Mostowa 11",
+      "city": "Pozna",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/290876342/",
+    "description": "<p>Hello there!</p> <p>We will explore the new location for PRUG<br/>Agenda:</p> <p>1 Kris Hasiski - Cargo Cult<br/>2 LT section<br/>Jan Matuszewski - Rails Assets Pipeline in a Nutshell<br/>Andrzej Lisiecki: TextPaint showcase. My program<br/>Piotr Wasiak - Advents of code and code golfing</p> <p>Break: Pizza Pizza  + coffee, tea , networking<br/>3 FREE slot, we need you for LT!</p> <p>Sponsor:<br/>[<a href=\"http://www.SpaceOS.io](SpaceOS.io\" class=\"linkified\">http://www.SpaceOS.io](SpaceOS.io</a>)<br/>Partner:<br/>[Mionicy Ruby](<a href=\"https://www.facebook.com/milosnicyruby\" class=\"linkified\">https://www.facebook.com/milosnicyruby</a>)</p> "
+  },
+  {
+    "created": 1667425527000,
+    "local_date": "2022-11-24",
+    "local_time": "18:00",
+    "name": "PRUG November 2022",
+    "venue": {
+      "id": 27458916,
+      "name": "Snowdog",
+      "lat": 52.40456008911133,
+      "lon": 16.940555572509766,
+      "repinned": true,
+      "address_1": "Mostowa 11",
+      "city": "Pozna",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/289504692/",
+    "description": "<p>Hello there!</p> <p>We will explore the new location for PRUG !</p> <p>Agenda:</p> <p>1 Mateusz - Rails7 + Hotwire + Stimulus + WebAuthn = Passwordless<br/>2 Piotr Wasiak - AWS lambda: how to upload and load gems fast<br/>Break: Pizza Pizza  + coffee, tea , networking<br/>3 FREE slot, LT?</p> "
+  },
+  {
+    "created": 1665517493000,
+    "local_date": "2022-10-27",
+    "local_time": "18:00",
+    "name": "PRUG October 2022",
+    "venue": {
+      "id": 26175847,
+      "name": "PSNC Future Labs",
+      "lat": 52.40846633911133,
+      "lon": 16.90838050842285,
+      "repinned": true,
+      "address_1": "Zwierzyniecka 20",
+      "city": "Pozna",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/289050888/",
+    "description": "<p>Hello ruby and web developers!</p> <p>The sponsor of this event is: [<a href=\"https://proxyone.eu](https://proxyone.eu\" class=\"linkified\">https://proxyone.eu](https://proxyone.eu</a>)<br/>\\&gt; We bring ideas into reality\\.</p> <p>Agenda:</p> <p>1 Jakub Kisielewski - OpenTelemetry - beginner's guide &amp; real world scenarios<br/>2 Micha cicki - Introduction to event storming<br/>Break: Pizza Pizza  + coffee, tea , networking<br/>3 LT: Piotr Wasiak: Gemfile customisation per developer</p> "
+  },
+  {
+    "created": 1663595411000,
+    "local_date": "2022-09-22",
+    "local_time": "18:00",
+    "name": "PRUG September 2022",
+    "venue": {
+      "id": 26075739,
+      "name": "Plus Jeden free Coworking Space",
+      "lat": 52.406158447265625,
+      "lon": 16.936500549316406,
+      "repinned": true,
+      "address_1": "Za Bramk 1",
+      "city": "Pozna",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/288580720/",
+    "description": "<p>Hello ruby and web developers!</p> <p>Agenda:</p> <p>1 LT: Krzysztof Hasiski: memories from [#wroc_love](<a href=\"https://www.facebook.com/hashtag/wroc_love?__eep__=6&amp;amp;__cft__%5B0%5D=AZV0gqiTNGfAIG0t31WBLhNaqME85w6JUBTczPJwdO4KPPcHkhCqEQ6LEXHWODAy5FgLv5XEU3RdsTGQYzDyqJ8OgnTQtc_5uS3ufp5qbyuUKy1Ncp_nQHljqbpEYC_o5Sl5D8PVzEy8xDMBQOHOrYPh&amp;amp;__tn__=q).rb\" class=\"linkified\">https://www.facebook.com/hashtag/wroc_love?__eep__=6&amp;amp;__cft__%5B0%5D=AZV0gqiTNGfAIG0t31WBLhNaqME85w6JUBTczPJwdO4KPPcHkhCqEQ6LEXHWODAy5FgLv5XEU3RdsTGQYzDyqJ8OgnTQtc_5uS3ufp5qbyuUKy1Ncp_nQHljqbpEYC_o5Sl5D8PVzEy8xDMBQOHOrYPh&amp;amp;__tn__=q).rb</a><br/>2 Alexander Repnikov: ActiveRecord .includes - do you use it consciously?<br/>3 Piotr Wasiak: short about Poznan ruby meetings future</p> <p>No Break, we are going straight for pizza and then for drinks</p> "
+  },
+  {
+    "created": 1661196268000,
+    "local_date": "2022-08-25",
+    "local_time": "18:00",
+    "name": "PRUG August 2022",
+    "venue": {
+      "id": 26075739,
+      "name": "Plus Jeden free Coworking Space",
+      "lat": 52.406158447265625,
+      "lon": 16.936500549316406,
+      "repinned": true,
+      "address_1": "Za Bramk 1",
+      "city": "Pozna",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/287991597/",
+    "description": "<p>Hello laid back developers!</p> <p>The last vacation meeting will be shorter than usual, so after party will be faster, I don't promise pizza.</p> <p>Agenda:</p> <p>1 Tomek - \"Ship it in style\"<br/>2 Piotr Wasiak - showdown: how do I roll with config/database.yml<br/>No break: Pizza Pizza  + coffee, tea , networking<br/>3 Lightning talks? - we welcome you</p> "
+  },
+  {
+    "created": 1661245876000,
+    "local_date": "2022-08-25",
+    "local_time": "18:00",
+    "name": "PRUG August 2022 (2)",
+    "venue": {
+      "id": 26075739,
+      "name": "Plus Jeden free Coworking Space",
+      "lat": 52.406158447265625,
+      "lon": 16.936500549316406,
+      "repinned": true,
+      "address_1": "Za Bramk 1",
+      "city": "Pozna",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/288001787/",
+    "description": "<p>Hello laid back developers!</p> <p>(I recreated an event to fix wrong date)</p> <p>The last vacation meeting will be shorter than usual, so after party will be faster, I don't promise pizza.</p> <p>Agenda:</p> <p>1 Tomek - \"Ship it in style\"<br/>2 Piotr Wasiak - showdown: how do I roll with config/database.yml<br/>No break: Pizza Pizza  + coffee, tea , networking<br/>3 Lightning talks? - we welcome you</p> "
+  },
+  {
+    "created": 1657048314000,
+    "local_date": "2022-07-26",
+    "local_time": "18:00",
+    "name": "PRUG July 2022",
+    "venue": {
+      "id": 26075739,
+      "name": "Plus Jeden free Coworking Space",
+      "lat": 52.406158447265625,
+      "lon": 16.936500549316406,
+      "repinned": true,
+      "address_1": "Za Bramk 1",
+      "city": "Pozna",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/286999023/",
+    "description": "<p>Hello nerds!</p> <p>We aborted June meeting, but we are not going to stop on vacations</p> <p>The sponsor of this event is: <a href=\"https://proxyone.eu\" class=\"linkified\">https://proxyone.eu</a><br/>\\&gt; We bring ideas into reality\\.</p> <p>Schedule</p> <p>1 Piotr Bugaj  led swoj aplikacje - Application Performance Monitoring<br/>2 Krzysztof Hasiski - Ever Shorter Feedback Loop<br/>Break: Pizza Pizza  + coffee, tea , networking<br/>3 Lightning talks:<br/>Jan Matuszewski - Optimize your CI pipeline<br/>Piotr Wasiak - How to sync Rails schema.rb right</p> "
+  },
+  {
+    "created": 1649877591000,
+    "local_date": "2022-04-28",
+    "local_time": "18:00",
+    "name": "PRUG April 2022",
+    "venue": {
+      "id": 26075739,
+      "name": "Plus Jeden free Coworking Space",
+      "lat": 52.406158447265625,
+      "lon": 16.936500549316406,
+      "repinned": true,
+      "address_1": "Za Bramk 1",
+      "city": "Pozna",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/285255036/",
+    "description": "<p>Hello folks!</p> <p>This time we are back with some lightning talks, more info soon.<br/>Agenda</p> <p>1 LT: Aleksander Kwiatkowski: Optymalizacja i profiling aplikacji<br/>2 LT: Piotr Wasiak: Typeprof - magic type checking for ruby<br/>Break: Pizza Pizza  + coffee, tea , networking<br/>3 Oskar Lakner: Nie dajmy umrze spoecznoci Ruby. Tylko jak? [PL]</p> "
+  },
+  {
+    "created": 1647386973000,
+    "local_date": "2022-03-31",
+    "local_time": "18:00",
+    "name": "PRUG March 2022",
+    "venue": {
+      "id": 26075739,
+      "name": "Plus Jeden free Coworking Space",
+      "lat": 52.406158447265625,
+      "lon": 16.936500549316406,
+      "repinned": true,
+      "address_1": "Za Bramk 1",
+      "city": "Pozna",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/284641317/",
+    "description": "<p>Welcome again!<br/>This time event talks will be presented in english!</p> <p>Agenda Agenda :<br/>1 Krzysztof Kempiski:<br/>\\# Developer's brand<br/>\\#\\# Find using regex \\(p?\\)<br/>Break: Pizza Pizza  + coffee, tea , networking<br/>2 Piotr Wasiak # How to check valid email?</p> <p>3 Free slot</p> "
+  },
+  {
+    "created": 1644947101000,
+    "local_date": "2022-02-24",
+    "local_time": "18:00",
+    "name": "PRUG February 2022",
+    "venue": {
+      "id": 26075739,
+      "name": "Plus Jeden free Coworking Space",
+      "lat": 52.406158447265625,
+      "lon": 16.936500549316406,
+      "repinned": true,
+      "address_1": "Za Bramk 1",
+      "city": "Pozna",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/284023444/",
+    "description": "<p>Hey there!<br/>Long break, but we are back also to last venue: +jeden!</p> <p>We will announce speakers with presentation titles in next posts, stay tuned!<br/>Agenda Agenda :<br/>1 Pawe Strzakowski:<br/>\\# Introduction to Event Sourcing<br/>\\#\\# How to do it in Ruby</p> <p>2 Andrzej Krzywda<br/>\\# Service objecty to za mao\\, co dalej Railsy?</p> <p>Break: Pizza Pizza  + coffee, tea </p> <p>3 Piotr Wasiak:<br/>\\# How to check valid email?<br/>\\#\\# Find using regex \\(p?\\)</p> "
+  },
+  {
+    "created": 1581010278000,
+    "local_date": "2020-02-26",
+    "local_time": "18:00",
+    "name": "PRUG February",
+    "venue": {
+      "id": 26075739,
+      "name": "Plus Jeden free Coworking Space",
+      "lat": 52.40609359741211,
+      "lon": 16.936527252197266,
+      "repinned": true,
+      "address_1": "Za Bramk 1",
+      "city": "Pozna",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/268510116/",
+    "description": "<p>Hey there!</p> <p>New Year needs to be started with first successful meeting of Pozna Ruby User Group Group <br/>We will announce speakers with presentation titles in next posts, stay tuned!</p> <p>Agenda Agenda :</p> <p>1 Krzysztof Jaboski: \"Wprowadznie do ActionView::Component\" [PL]<br/>2 Mateusz Kaczmarek: \"OpenBanking by using OAuth, OIDC, FAPI, CDS\"</p> <p>Break: Pizza + coffee, tea</p> <p>3 Krzysztof Hasiski: \"Human-sized Code\"</p> <p>Attention : This time were meeting earlier at 18:00 on Wednesday<br/>Attention 2 : This time were meeting in new place, in the city center</p> "
+  },
+  {
+    "created": 1578562697000,
+    "local_date": "2020-01-23",
+    "local_time": "18:00",
+    "name": "PRUG January",
+    "venue": {
+      "id": 26075739,
+      "name": "Plus Jeden free Coworking Space",
+      "lat": 52.40609359741211,
+      "lon": 16.936527252197266,
+      "repinned": true,
+      "address_1": "Za Bramk 1",
+      "city": "Pozna",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/267773499/",
+    "description": "<p>Hey there!</p> <p>We're coming back in New Year with the next edition of Pozna Ruby User Group Group <br/>If you're interested in speaking (Presentation or Lightning talk) at the next event then drop us a DM </p> <p>Agenda Agenda :<br/>1: TBA<br/>2: TBA</p> <p>Attention : This time were meeting earlier at 18:00<br/>Attention 2 : This time were meeting in new place, in the city center</p> "
+  },
+  {
+    "created": 1573668160000,
+    "local_date": "2019-11-28",
+    "local_time": "19:00",
+    "name": "PRUG November",
+    "venue": {
+      "id": 26188634,
+      "name": "Zakad Makerspace",
+      "lat": 52.417633056640625,
+      "lon": 16.904251098632812,
+      "repinned": true,
+      "address_1": "witego Wawrzyca 7",
+      "city": "Pozna",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/266439296/",
+    "description": "<p>Hey there!</p> <p>We're coming back with the next edition of PRUG PRUG <br/>If you're interested in speaking at the next eventS drop us a DM </p> <p>Agenda:<br/>Jacek Broek - Almost-Real-Time Face Recognition with Ruby<br/>Krzysztof Urban - Tips and tricks for writing command line tools in Ruby<br/>Sakir Temel - Three point estimation</p> <p>Psst... Were also planning to have Lighting Talks after the main part!</p> "
+  },
+  {
+    "created": 1568188627000,
+    "local_date": "2019-09-26",
+    "local_time": "19:00",
+    "name": "PRUG September",
+    "venue": {
+      "id": 26188634,
+      "name": "Zakad Makerspace",
+      "lat": 52.417633056640625,
+      "lon": 16.904251098632812,
+      "repinned": true,
+      "address_1": "witego Wawrzyca 7",
+      "city": "Pozna",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/264744734/",
+    "description": "<p>After vacation break we return to our meetings</p> <p>1) Micha Janeda: Hanami with DI</p> "
+  },
+  {
+    "created": 1559722208000,
+    "local_date": "2019-06-27",
+    "local_time": "19:00",
+    "name": "PRUG June",
+    "venue": {
+      "id": 26188634,
+      "name": "Zakad Makerspace",
+      "lat": 52.417633056640625,
+      "lon": 16.904251098632812,
+      "repinned": false,
+      "address_1": "witego Wawrzyca 7",
+      "city": "Pozna",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/262058881/",
+    "description": "<p>Hej!</p> <p>Bdzie PRUG! Widzimy si tradycyjnie w czwarty czwartek miesica, czyli 27.06. Miejsce jeszcze ogosimy, ale ju rezerwujcie czas!</p> <p>Hey!</p> <p>PRUG is coming! We meet on the fourth Thursday of the month, Jun 27th. Venue still to be announced, but you can already book some time for us!</p> <p>Agenda:<br/>Kacper Walanus - \"Functional and event-driven programming in serverless world\" [EN]<br/>Jacek Broek - \"This Array is on fire! Writing a neural network in Ruby\" [EN]<br/>Micha Papis - \"Aspergers in IT\" [EN]</p> "
+  },
+  {
+    "created": 1557496568000,
+    "local_date": "2019-05-23",
+    "local_time": "19:00",
+    "name": "PRUG May",
+    "venue": {
+      "id": 26188634,
+      "name": "Zakad Makerspace",
+      "lat": 52.417633056640625,
+      "lon": 16.904251098632812,
+      "repinned": false,
+      "address_1": "witego Wawrzyca 7",
+      "city": "Pozna",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/261349816/",
+    "description": "<p>Hej!</p> <p>Pora na kolejnego PRUGa, widzimy si za 2 tygodnie :)</p> <p>Czekamy na zgoszenia prezentacji!</p> <p>Agenda:<br/>Piotr Wasiak - \"Prettier-ruby? Ruby formatters overview\"<br/>Micha Janeda - Data Analysis using Postgres (window function)</p> "
+  },
+  {
+    "created": 1550655216000,
+    "local_date": "2019-02-28",
+    "local_time": "19:00",
+    "name": "PRUG Reloaded",
+    "venue": {
+      "id": 26188634,
+      "name": "Zakad Makerspace",
+      "lat": 52.417633056640625,
+      "lon": 16.904251098632812,
+      "repinned": false,
+      "address_1": "witego Wawrzyca 7",
+      "city": "Pozna",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/259118518/",
+    "description": "<p>PRUG wraca po dugiej przerwie!</p> <p>Pracujemy nad ustaleniem miejsca spotkania, ale ogosimy to niedugo. Spotykamy si tradycyjnie w czwarty czwartek miesica. Rozmawiamy o Ruby, Rails i wszystkim zwizanym z web developmentem.</p> <p>Jako, e nie byo nas dugo to chcemy zachci wszystkich jeszcze bardziej (nie trzeba, nie?). Bdziemy losowa darmowy bilet na konferencj RubyConf BY, ktry odbdzie si w kwietniu w Misku.</p> "
+  },
+  {
+    "created": 1497281693000,
+    "local_date": "2017-06-22",
+    "local_time": "19:00",
+    "name": "PRUG June @ Netguru",
+    "venue": {
+      "id": 25300558,
+      "name": "Netguru",
+      "lat": 52.401790618896484,
+      "lon": 16.89280891418457,
+      "repinned": false,
+      "address_1": "ul. Wojskowa 6",
+      "city": "Poznan",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/240733138/",
+    "description": "<p><b>PRUG</b> to event zrzeszajcy fanw jzyka <b>Ruby</b> z <b>Poznania</b> i okolic. Zbieramy si w jednym miejscu i jednym czasie, aby poruszy nurtujce nas tematy, posucha mdrych prezentacji i spdzi troch czasu w gronie podobnie mylcych ludzi.</p> <p>Tym razem czekaj nas nastpujce talki:</p> <p><b>Grzegorz Unijewski </b>- \"From Sidekiq to Amazon SQS\", czyli historia o tym, jak bezbolenie dokona migracji midzy dwoma toolami umoliwiajcymi kolejkowanie zada.</p> <p><b>Mateusz Grniak</b> - \"Custom checkout pages with Adyen\", czyli jak za pomoc Adyena stworzy customizowaln stron patnoci</p> <p><b>Aleksander Wdowiski</b> - Porwnanie metod enkapsulacji logiki biznesowej, czyli jak dba o kod ju dzisiaj, by jutro nie trzeba byo refowa ;-)</p> <p>Bdzie czas na jeszcze par prelekcji, wic jeli chcesz o czym powiedzie to daj zna w grupie PRUGowej na fb albo przez wiadomo :)</p> <p>Spotkanie odbdzie si w tym razem w biurze Netguru<b> na ul. Wojskowej 6</b>. Uczestnictwo w imprezie jest rwnoznaczne z akceptacj<a href=\"https://docs.google.com/document/d/1-NUEqONfGQ9HoPxB_Jq7v97DWQLWSAUMx7yndyvSyBI/edit?usp=sharing\">regulaminu</a>.</p> <p>Do zobaczenia!</p> "
+  },
+  {
+    "created": 1453889743000,
+    "local_date": "2016-01-28",
+    "local_time": "19:00",
+    "name": "PRUG January @ coworkingness",
+    "venue": {
+      "id": 24224073,
+      "name": "Coworkingness",
+      "lat": 52.405757904052734,
+      "lon": 16.938034057617188,
+      "repinned": false,
+      "address_1": "Wszystkich witych 5/3",
+      "city": "Poznan",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/228395874/",
+    "description": "<p>Hej,</p> <p>W grudniu si nie udao, ale w nowym roku ruszamy pen par!</p> <p>Szukamy prelegentw! Jeli chcesz o czym powiedzie to daj zna w grupie PRUGowej na fb albo przez wiadomo :)</p> <p>Po raz kolejny gospodarzem bdzie Coworkingness! :)</p> <p>Prezentacje:</p> <p>Marcin Stecki - \"random stuff\"</p> <p>Do zobaczenia!</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2015-11-26",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgytpbjc/",
+    "description": "<p>Hi there!</p> <p>The next<b>Pozna Ruby Users Group</b> is knocking at the door!Don't be late! We start at 7pm!</p> <p>Detailed agenda to be announced soon!</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2015-09-24",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgytmbgc/",
+    "description": "<p>Hi there!</p> <p>The next<b>Pozna Ruby Users Group</b> is knocking at the door!Don't be late! We start at 7pm!</p> <p>Detailed agenda to be announced soon!</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2015-08-27",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgytlbkc/",
+    "description": "<p>Hi there!</p> <p>The next<b>Pozna Ruby Users Group</b> is knocking at the door!Don't be late! We start at 7pm!</p> <p>Detailed agenda to be announced soon!</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2015-07-23",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgytjbhc/",
+    "description": "<p>Hello everyone!</p> <p>The next PRUG is coming...this time we skipped June edition to work on the new, improved PRUG formula we will introduce on July.</p> <p>Sounds a bit mysterious, right?</p> <p>During our last meeting, we were talking about ideas we have to make our meetings even better.</p> <p>That's why we doubled our efforts to make our next PRUG great. We want to have new faces, new place, new content...generally: brand new experience for everyone.</p> <p>Sorry for late notice everyone and please stay tuned - we'll keep you updated!</p> <p>June/Juley PRUG on Facebook.</p> <p>(Polish version only)</p> <p><a href=\"https://www.facebook.com/events/655486474553256/?action_history=null\"><a href=\"https://www.facebook.com/events/655486474553256/?action_history=null\" class=\"linkified\">https://www.facebook.com/events/655486474553256/?action_history=null</a></a></p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2015-07-23",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgytkbfc/",
+    "description": "<p>Hi there!</p> <p>The next<b>Pozna Ruby Users Group</b> is knocking at the door!Don't be late! We start at 7pm!</p> <p>Detailed agenda to be announced soon!</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2015-05-28",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "venue": {
+      "id": 23848937,
+      "name": "Czerwone Sombrero ",
+      "lat": 52.40459060668945,
+      "lon": 16.92708969116211,
+      "repinned": false,
+      "address_1": "Piekary 17 ",
+      "city": "Poznan",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgythblc/",
+    "description": "<p>Hello everyone!</p> <p>The next<b>Pozna Ruby Users Group</b> is knocking at the door!</p> <p>We see each other on <b>Thursday, May 28</b>at <b>7pm</b>!</p> <p>This time we meet at <b>Czerwone Sombrero</b> restaurant at Piekary 17 st.!</p> <p>We start with a presentation \"<b>Bundler is not dead</b>\" which will be held by <b>Micha Papis!</b></p> <p><b>Later on </b>we will do <b>a brainstorming session </b>to think of some improvements for our <b>PRUG!</b>We all have plenty ideas for our meetings - now is the time to give them a try!:)</p> <p>Sounds interesting? Don't hestitate to come and share your concepts with others!</p> <p><b>What is this all about?</b></p> <p><b>Our goal is simple:</b> we want to share our passion for Ruby!We exchange latest news from Ruby world, we present materials and discuss Ruby related topics!</p> <p><b>What's great about that? </b>We try to make each meeting different!We choose the place and topics together - that's how we really know that whatever we talk about is exactly what we need.</p> <p>Plus: You don't have to be Ruby developer to join! Anyone with an interest for Ruby is more than welcome!</p> <p>Want to get more involved and meet us before we see each other live? </p> <p>Join<b>Poznan Ruby Users Group </b>on Facebook</p> <p>(Polish version only) :</p> <p><a href=\"https://www.facebook.com/groups/poznanrug/\"><a href=\"https://www.facebook.com/groups/poznanrug/\" class=\"linkified\">https://www.facebook.com/groups/poznanrug/</a></a></p> <p><b>Pozna Ruby Users Group - May</b></p> <p><a href=\"https://www.facebook.com/events/922598077790983/\"><a href=\"https://www.facebook.com/events/922598077790983/\" class=\"linkified\">https://www.facebook.com/events/922598077790983/</a></a></p> <p>See you atThursday, May 28 !</p> <p>:)</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2015-04-23",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "venue": {
+      "id": 17087442,
+      "name": "Netguru",
+      "lat": 52.407867431640625,
+      "lon": 16.92483901977539,
+      "repinned": false,
+      "address_1": "27 GRUDNIA 3",
+      "city": "Poznan",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgytgbfc/",
+    "description": "<p>Hello everyone!</p> <p>The next<b>Pozna Ruby Users Group</b> is knocking at the door!</p> <p>We will watch RailsConf and Pager Duty presentations. Sounds nice? Sure it does!</p> <p>Don't be late! We start at 7pm!</p> <p>See you!</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2015-03-26",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgytfbjc/",
+    "description": "<p>Hi there!</p> <p>The next<b>Pozna Ruby Users Group</b> is knocking at the door!Don't be late! We start at 7pm!</p> <p>Detailed agenda to be announced soon!</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2015-02-26",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "venue": {
+      "id": 17087442,
+      "name": "Netguru",
+      "lat": 52.407867431640625,
+      "lon": 16.92483901977539,
+      "repinned": false,
+      "address_1": "27 GRUDNIA 3",
+      "city": "Poznan",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgytdbjc/",
+    "description": "<p>Hi there!</p> <p>The next<b>Pozna Ruby Users Group</b> is knocking at the door!Don't be late! We start at 7pm!</p> <p>Detailed agenda to be announced soon!</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2015-01-22",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "venue": {
+      "id": 17087442,
+      "name": "Netguru",
+      "lat": 52.407867431640625,
+      "lon": 16.92483901977539,
+      "repinned": false,
+      "address_1": "27 GRUDNIA 3",
+      "city": "Poznan",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgytcbdc/",
+    "description": "<p>Hi there!</p> <p>The next<b>Pozna Ruby Users Group</b> is knocking at the door!Don't be late! We start at 7pm at Netguru's HQ!</p> <p>Detailed agenda to be announced soon!</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2014-12-25",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "venue": {
+      "id": 17087442,
+      "name": "Netguru",
+      "lat": 52.407867431640625,
+      "lon": 16.92483901977539,
+      "repinned": false,
+      "address_1": "27 GRUDNIA 3",
+      "city": "Poznan",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgysqbhc/",
+    "description": "<p>Hi there!</p> <p>The next<b>Pozna Ruby Users Group</b> is knocking at the door!Don't be late! We start at 7pm at Netguru's HQ!</p> <p>Detailed agenda to be announced soon!</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2014-11-27",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "venue": {
+      "id": 23483795,
+      "name": "NigmaLabs ",
+      "lat": 52.40245056152344,
+      "lon": 16.933799743652344,
+      "repinned": false,
+      "address_1": "Strzelecka 34/9",
+      "city": "Poznan",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgyspbkc/",
+    "description": "<p>Kolejny PRUG ju wkrtce.</p> <p>Raz w miesicu spotykamy si w centrum Poznania, eby porozmawia o ruby posucha ciekawych prezentacji i wsplnie tworzy ruby community</p> <p>Plan prezentacji na najblisze listopadowe spotkanie:<br/>1. Aleksander Wdowiski \"Integrating Rails with EC2 instance and S3 cloud storage for low cost batch file processing\"<br/>2.Micha Papis \"Introducing RVM2</p> <p>Cigle czekamy na wicej... wicej... </p> <p>Chcesz si podzieli z nami swoj prezentacj? Napisz do nas na prug@prug.pl</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2014-10-23",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "venue": {
+      "id": 17087442,
+      "name": "Netguru",
+      "lat": 52.407867431640625,
+      "lon": 16.92483901977539,
+      "repinned": false,
+      "address_1": "27 GRUDNIA 3",
+      "city": "Poznan",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgysnbfc/",
+    "description": "<p>Hi there!</p> <p>The next<b>Pozna Ruby Users Group</b> is knocking at the door!Don't be late! We start at 7pm at Netguru's HQ!</p> <p>Detailed agenda to be announced soon!</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2014-09-25",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "venue": {
+      "id": 22393392,
+      "name": "Domwka u Marka ",
+      "lat": 52.40385818481445,
+      "lon": 16.930660247802734,
+      "repinned": false,
+      "address_1": "ul. Duga 12/9",
+      "city": "Poznan",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgysmbhc/",
+    "description": "<p>Wyjtkowa edycja PRUG! Ruby in da house  robimy domwk w samym centrum Poznania. Zachcamy cae community do wsptworzenia naszych spotka. Tym razem gospodarzem bdzie Marek Piasecki. 25 wrzenia zapraszamy na ul. Dug 12/9. W kameralnej atmosferze nie zabraknie mocnych prezentacji i piwa. Potwierdzone mamy 2 prezentacje:<br/>- Adam Nowak: \"Stick to the Rules\"<br/>- Jacek Broek \"Distributed Ruby App\"</p> <p>Tworzymy histori! Prosimy si rejestrowa  liczba miejsc jest ograniczona.</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2014-08-28",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "venue": {
+      "id": 17087442,
+      "name": "Netguru",
+      "lat": 52.407867431640625,
+      "lon": 16.92483901977539,
+      "repinned": false,
+      "address_1": "27 GRUDNIA 3",
+      "city": "Poznan",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgyslblc/",
+    "description": "<p>Znamy ju PRUGowy rozkad jazdy! Na najbliszym spotkaniu prezentacj poprowadz:</p> <p>Micha Taberski \"Chrome Debugger\"<br/>Marek Piasecki \"Frontend/backend architecture\"<br/>Kamil Paszkowski \"Grape for API\"</p> <p>Zapraszamy!</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2014-07-24",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "venue": {
+      "id": 17087442,
+      "name": "Netguru",
+      "lat": 52.407867431640625,
+      "lon": 16.92483901977539,
+      "repinned": false,
+      "address_1": "27 GRUDNIA 3",
+      "city": "Poznan",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgyskbgc/",
+    "description": "<p>Kolejny PRUG ju za kilka dni!<br/>Raz w miesicu spotykamy si w centrum Poznania, eby porozmawia o ruby posucha ciekawych prezentacji i wsplnie tworzy ruby community</p> <p>W tym miesicu powiemy m.in o:<br/>- React.js, Piotr Paek<br/>- Architekturze flux, Rafa Gawlik<br/>-Nomadic programmer, Grze Witek</p> <p>Chcesz si podzieli z nami swoj prezentacj? Napisz do nas na prug@prug.pl</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2014-06-26",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "venue": {
+      "id": 17087442,
+      "name": "Netguru",
+      "lat": 52.407867431640625,
+      "lon": 16.92483901977539,
+      "repinned": false,
+      "address_1": "27 GRUDNIA 3",
+      "city": "Poznan",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgysjbjc/",
+    "description": "<p>Hi there!</p> <p>The next<b>Pozna Ruby Users Group</b> is knocking at the door!Don't be late! We start at 7pm at Netguru's HQ!</p> <p>Detailed agenda to be announced soon!</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2014-05-22",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "venue": {
+      "id": 17087442,
+      "name": "Netguru",
+      "lat": 52.407867431640625,
+      "lon": 16.92483901977539,
+      "repinned": false,
+      "address_1": "27 GRUDNIA 3",
+      "city": "Poznan",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgyshbdc/",
+    "description": "<p>Hi there!</p> <p>The next<b>Pozna Ruby Users Group</b> is knocking at the door!Don't be late! We start at 7pm at Netguru's HQ!</p> <p>Detailed agenda to be announced soon!</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2014-05-22",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "venue": {
+      "id": 17087442,
+      "name": "Netguru",
+      "lat": 52.407867431640625,
+      "lon": 16.92483901977539,
+      "repinned": false,
+      "address_1": "27 GRUDNIA 3",
+      "city": "Poznan",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgysgbgc/",
+    "description": "<p>Hi there!</p> <p>The next<b>Pozna Ruby Users Group</b> is knocking at the door!Don't be late! We start at 7pm at Netguru's HQ!</p> <p>Detailed agenda to be announced soon!</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2014-03-27",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "venue": {
+      "id": 17087442,
+      "name": "Netguru",
+      "lat": 52.407867431640625,
+      "lon": 16.92483901977539,
+      "repinned": false,
+      "address_1": "27 GRUDNIA 3",
+      "city": "Poznan",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgysfbkc/",
+    "description": "<p>Hi there!</p> <p>The next<b>Pozna Ruby Users Group</b>is knocking at the door!Don't be late! We start at 7pm at Netguru's HQ!</p> <p>Detailed agenda to be announced soon!</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2014-02-27",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "venue": {
+      "id": 17087442,
+      "name": "Netguru",
+      "lat": 52.407867431640625,
+      "lon": 16.92483901977539,
+      "repinned": false,
+      "address_1": "27 GRUDNIA 3",
+      "city": "Poznan",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgysdbkc/",
+    "description": "<p>Hi there!</p> <p>The next<b>Pozna Ruby Users Group</b>is knocking at the door!Don't be late! We start at 7pm at Netguru's HQ!</p> <p>Detailed agenda to be announced soon!</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2014-01-23",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "venue": {
+      "id": 17087442,
+      "name": "Netguru",
+      "lat": 52.407867431640625,
+      "lon": 16.92483901977539,
+      "repinned": false,
+      "address_1": "27 GRUDNIA 3",
+      "city": "Poznan",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgyscbfc/",
+    "description": "<p>Hi there!</p> <p>The next<b>Pozna Ruby Users Group</b>is knocking at the door!Don't be late! We start at 7pm at Netguru's HQ!</p> <p>Detailed agenda to be announced soon!</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2013-11-28",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "venue": {
+      "id": 17087442,
+      "name": "Netguru",
+      "lat": 52.407867431640625,
+      "lon": 16.92483901977539,
+      "repinned": false,
+      "address_1": "27 GRUDNIA 3",
+      "city": "Poznan",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgyrpblc/",
+    "description": "<p>Hi there!</p> <p>The next<b>Pozna Ruby Users Group</b>is knocking at the door!We gonna meet you on the<b>28th November!</b> Don't be late! We start at 7pm at Netguru's HQ!</p> <p>Agenda (in progress;&gt;):</p> <p>Tomek Tokarski - \"Ruby in Docker\"<br/>Bartosz Pranczke - \"Firebase, real-time backend for your app\"</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2013-10-24",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "venue": {
+      "id": 14939842,
+      "name": "Netguru",
+      "lat": 52.40644836425781,
+      "lon": 16.924089431762695,
+      "repinned": false,
+      "address_1": "w. Marcin 41/8",
+      "city": "Poznan",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgyrnbgc/",
+    "description": "<p>Hi there!</p> <p>The next<b>Pozna Ruby Users Group</b>is knocking at the door!We gonna meet you on the<b>26th of September!</b> Don't be late! We start at 7pm at Netguru's HQ!</p> <p>Agenda for today's meeting:</p> <p>\"Podstawy ksigowoci, czyli jak powsta CompanyManager\" Krzysztof Jaboski!</p> <p>\"Why no one is looking for rockstar programmers\"!<br/>Wiktor Schmidt</p> <p> Networking (czyli gry, zabawy i piwo)</p> "
+  },
+  {
+    "created": 1379414885000,
+    "local_date": "2013-09-26",
+    "local_time": "19:00",
+    "name": "Poznan Ruby Users Group",
+    "venue": {
+      "id": 14939842,
+      "name": "Netguru",
+      "lat": 52.40644836425781,
+      "lon": 16.924089431762695,
+      "repinned": false,
+      "address_1": "w. Marcin 41/8",
+      "city": "Poznan",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/qfddtgyrmbjc/",
+    "description": "<p>Hi there!</p> <p>The next<b>Pozna Ruby Users Group</b>is knocking at the door!We gonna meet you on the<b>26th of September!</b> Don't be late! We start at 7pm at Netguru's HQ!</p> <p>Detailed agenda to be announced soon!</p> "
+  },
+  {
+    "created": 1375697686000,
+    "local_date": "2013-08-22",
+    "local_time": "19:00",
+    "name": "PRUG August meetup",
+    "venue": {
+      "id": 14939842,
+      "name": "Netguru",
+      "lat": 52.40644836425781,
+      "lon": 16.924089431762695,
+      "repinned": false,
+      "address_1": "w. Marcin 41/8",
+      "city": "Poznan",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/poznanrug/events/133134782/",
+    "description": "<p>Hey!</p> <p>We gonna meet on 22nd of August!</p> <p>Presentations:<br/>Sass features you probably didn't know about. Real life usecases. - Dawid Woniak.</p> <p>Refactoring backbone applications with Marionette - Tomasz Pewiski</p> <p>Mom, where do the programmers come from? - Marcin Stecki</p> <p>Home row is a king. Using a computer in a suckless way. - Bartosz Pranczke</p> <p>We are still open for new presentations and lightning talks.<br/>Drinks and goodatmosphere included! :)</p> "
+  }
+]

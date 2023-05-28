@@ -1,0 +1,1781 @@
+[
+  {
+    "created": 1683819741000,
+    "local_date": "2023-05-15",
+    "local_time": "19:00",
+    "name": "DRUG #121 Maj 2023",
+    "venue": {
+      "id": 26080357,
+      "name": "Monterail",
+      "lat": 51.10805130004883,
+      "lon": 17.036354064941406,
+      "repinned": true,
+      "address_1": "Oawska 27-29",
+      "city": "Wrocaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/293469744/",
+    "description": "<p>This month, our event will be hosted in English. Emmanuel is going to unveil some details of the newest Rails 7.1<br/>Feel invited!</p> "
+  },
+  {
+    "created": 1681249728000,
+    "local_date": "2023-04-17",
+    "local_time": "19:00",
+    "name": "DRUG #120 Kwiecie 2023",
+    "venue": {
+      "id": 26080357,
+      "name": "Monterail",
+      "lat": 51.10805130004883,
+      "lon": 17.036354064941406,
+      "repinned": false,
+      "address_1": "Oawska 27-29",
+      "city": "Wrocaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/292833725/",
+    "description": "<p>Po krtkiej przerwie zapraszamy ponownie na spotkanie DURGowiczw. Pawe witkowski opowie o swoich dowiadczeniach z Hanami, a jeli masz ochot, to rwnie zapraszamy z prezentacjami lejszymi i ciszymi na scen.</p> "
+  },
+  {
+    "created": 1676042819000,
+    "local_date": "2023-02-20",
+    "local_time": "19:00",
+    "name": "DRUG #118 Luty 2023",
+    "link": "https://www.meetup.com/drugpl/events/291534808/",
+    "description": "<p>Nie zwalniamy tempa w 2023 - zapraszamy na edycj lutow z prezentacjami Piotra i Filipa!</p> <p>Planowane prezentacje:</p> <p>* How to check valid Email? Find using regex. - Piotr Wasiak<br/>* Procesy, wtki i asynchroniczne I/O - Filip Pacanowski</p> <p>Zapraszamy!</p> "
+  },
+  {
+    "created": 1672955370000,
+    "local_date": "2023-01-16",
+    "local_time": "19:00",
+    "name": "DRUG #117 Stycze 2023",
+    "link": "https://www.meetup.com/drugpl/events/290748648/",
+    "description": "<p>Nowy Rok zaczynamy z gocinnym wystpem Pawa Strzakowskiego , ktrego moecie kojarzy m.in. z konferencji Wroclove.rb oraz Mateusza Woniczka.</p> <p>Planowane prezentacje:</p> <p>* Path of a domain-driven warrior - How to fit DDD concepts into a plain Ruby on Rails app - Pawe Strzakowski<br/>* Pokedex - database normalization in practice - Mateusz Woniczka</p> <p>Zapraszamy!</p> "
+  },
+  {
+    "created": 1672758449000,
+    "local_date": "2023-01-04",
+    "local_time": "19:00",
+    "name": "DRUG #117 Stycze 2023",
+    "link": "https://www.meetup.com/drugpl/events/290692123/",
+    "description": "<p>Nowy Rok zaczynamy z gocinnym wystpem Pawa Strzakowskiego, ktrego moecie kojarzy m.in. z konferencji Wroclove.rb.</p> <p>Planowane prezentacje:</p> <p>* Path of a domain-driven warrior - How to fit DDD concepts into a plain Ruby on Rails app - Pawe Strzakowski</p> <p>Zapraszamy!</p> "
+  },
+  {
+    "created": 1670332141000,
+    "local_date": "2022-12-19",
+    "local_time": "19:00",
+    "name": "DRUG #116 Grudzie 2022",
+    "link": "https://www.meetup.com/drugpl/events/290174812/",
+    "description": "<p>W listopadzie Robert nie dotar, wic sprbujemy raz jeszcze. Oprcz niego debiutanck prezentacj zapowiedzia Tobiasz.</p> <p>Planowane prezentacje:</p> <p>* Kubernetes health-checks traps for Puma based apps - Robert Pankowecki<br/>* Is Rails slow? - Tobiasz Waszak</p> <p>Zapraszamy!</p> "
+  },
+  {
+    "created": 1667058674000,
+    "local_date": "2022-11-21",
+    "local_time": "19:00",
+    "name": "DRUG #115 Listopad 2022",
+    "link": "https://www.meetup.com/drugpl/events/289417913/",
+    "description": "<p>Mio nam zaprosi mionikw Ruby na kolejny w tym roku DRUG - 21. listopada o 19 w biurze Monterail (ul. Oawska). Krzysztof i Robert to renoma sama w sobie, wic wysoki poziom prezentacji gwarantowany!<br/>Planowane prezentacje:</p> <p>* Human-sized Code - Krzysztof Hasiski<br/>* Kubernetes health-checks traps for Puma based apps - Robert Pankowecki<br/>* Events Inside and Outside (LT) - Filip Pacanowski</p> <p>Zapraszamy!</p> "
+  },
+  {
+    "created": 1665566400000,
+    "local_date": "2022-10-17",
+    "local_time": "19:00",
+    "name": "DRUG #114 Padziernik 2022",
+    "venue": {
+      "id": 26080357,
+      "name": "Monterail",
+      "lat": 51.10805130004883,
+      "lon": 17.036354064941406,
+      "repinned": true,
+      "address_1": "Oawska 27-29",
+      "city": "Wrocaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/289062212/",
+    "description": "<p>Na najbliszym DRUGu planujemy zalege podsumowanie konferencji Wrocloverb i pocztek planowania kolejnej edycji. Zachcamy do zgaszania dodatkowych prezentacji! Widzimy si jak zawsze w trzeci poniedziaek miesica o 19.00, tj. 17. padziernika, w biurze Monterail (ul. Oawska).</p> <p>Planowane prezentacje:</p> <p>* Podsumowanie Wroclove.rb 2022</p> <p>Zapraszamy!</p> "
+  },
+  {
+    "created": 1662463767000,
+    "local_date": "2022-09-19",
+    "local_time": "19:00",
+    "name": "DRUG #113 Wrzesie 2022",
+    "link": "https://www.meetup.com/drugpl/events/288303146/",
+    "description": "<p>Nastpny DRUG tu po konferencji Wrocloverb, wic potraktujemy go jako edycj specjaln - spotkajmy si i podzielmy wraeniami z konferencji. Jeli kto chciaby zaprezentowa co ekstra, to oczywicie jest taka moliwo. Widzimy si jak zawsze w trzeci poniedziaek miesica o 19.00, tj. 19. wrzenia, w biurze Monterail (ul. Oawska).<br/>Jeli nie macie jeszcze biletw na Wroclove, to mona je naby na konfeo [<a href=\"https://wrocloverb2022.konfeo.com/en/groups](https://wrocloverb2022.konfeo.com/en/groups?fbclid=IwAR2XXYbNaSWpFxSIPZNblmYKOg1sqe8uLwe0rq3_jfx4d6cA3bm4pn0TMho\" class=\"linkified\">https://wrocloverb2022.konfeo.com/en/groups](https://wrocloverb2022.konfeo.com/en/groups?fbclid=IwAR2XXYbNaSWpFxSIPZNblmYKOg1sqe8uLwe0rq3_jfx4d6cA3bm4pn0TMho</a>)<br/>Planowane prezentacje:</p> <p>* Inbox and Outbox pattern - Filip Pacanowski</p> <p>Zapraszamy!</p> "
+  },
+  {
+    "created": 1657705384000,
+    "local_date": "2022-07-18",
+    "local_time": "19:00",
+    "name": "DRUG #112 Lipiec 2022",
+    "venue": {
+      "id": 26080357,
+      "name": "Monterail",
+      "lat": 51.10805130004883,
+      "lon": 17.036354064941406,
+      "repinned": true,
+      "address_1": "Oawska 27-29",
+      "city": "Wrocaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/287159373/",
+    "description": "<p>Zapraszamy na kolejn edycj DRUGa. Widzimy si jak zawsze w trzeci poniedziaek miesica o 19.00, tj. 18. lipca, w biurze Monterail (ul. Oawska).</p> <p>Planowane prezentacje:</p> <p>* Event Storming dla projektu eCommerce - Andrzej Krzywda<br/>* Konfiguracja apeczek w Ruby - Jan Dudulski<br/>* Miejsce na Twoj prezentacj!</p> <p>Zapraszamy i czekamy na kolejne zgoszenia!</p> "
+  },
+  {
+    "created": 1655499015000,
+    "local_date": "2022-06-18",
+    "local_time": "19:00",
+    "name": "DRUG #111 Czerwiec 2022",
+    "venue": {
+      "id": 26080357,
+      "name": "Monterail",
+      "lat": 51.10805130004883,
+      "lon": 17.036354064941406,
+      "repinned": true,
+      "address_1": "Oawska 27-29",
+      "city": "Wrocaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/286639945/",
+    "description": "<p>Zapraszamy na kolejn edycj DRUGa. Widzimy si jak zawsze w trzeci poniedziaek miesica o 19.00, tj. 20. czerwca, w biurze Monterail (ul. Oawska).</p> <p>Planowane prezentacje:</p> <p>* Neo4j on Rails - Wojciech Maciejal<br/>* Miejsce na Twoj prezentacj!</p> <p>Zapraszamy i czekamy na kolejne zgoszena!</p> "
+  },
+  {
+    "created": 1652268764000,
+    "local_date": "2022-05-16",
+    "local_time": "19:00",
+    "name": "DRUG #110 Maj 2022",
+    "venue": {
+      "id": 26080357,
+      "name": "Monterail",
+      "lat": 51.10805130004883,
+      "lon": 17.036354064941406,
+      "repinned": true,
+      "address_1": "Oawska 27-29",
+      "city": "Wrocaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/285839197/",
+    "description": "<p>Zapraszamy na kolejn edycj DRUGa. Widzimy si jak zawsze w trzeci poniedziaek miesica o 19.00, tj. 16. maja, w biurze Monterail (ul. Oawska).</p> <p>Planowane prezentacje:</p> <p>* Ewolucja mojego systemu blogowania - Sebastian Wilgosz<br/>* Krtka historia o czasie - Micha Bronikowski<br/>* Entity Component System w \"powanych aplikacjach\" - Pawe witkowski</p> <p>Zapraszamy i czekamy na kolejne zgoszena!</p> "
+  },
+  {
+    "created": 1647429126000,
+    "local_date": "2022-03-21",
+    "local_time": "19:00",
+    "name": "DRUG #109 Marzec 2022",
+    "venue": {
+      "id": 26080357,
+      "name": "Monterail",
+      "lat": 51.10805130004883,
+      "lon": 17.036354064941406,
+      "repinned": true,
+      "address_1": "Oawska 27-29",
+      "city": "Wrocaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/284649495/",
+    "description": "<p>Zapraszamy na kolejn edycj DRUGa. Widzimy si jak zawsze w trzeci poniedziaek miesica o 19.00, tj. 21. marca, w biurze Monterail (ul. Oawska).</p> <p>Planowane prezentacje:</p> <p>1. Jak dziaa kiedy baza jest zbyt dua i trzeba zacz j dzieli - Rafa asocha<br/>2. Krtka historia o direct upload z ActiveStorage - Jan Dudulski</p> <p>Zapraszamy i czekamy na kolejne zgoszena!</p> "
+  },
+  {
+    "created": 1644399946000,
+    "local_date": "2022-02-21",
+    "local_time": "19:00",
+    "name": "DRUG #108 Luty 2022",
+    "venue": {
+      "id": 26080357,
+      "name": "Monterail",
+      "lat": 51.10805130004883,
+      "lon": 17.036354064941406,
+      "repinned": true,
+      "address_1": "Oawska 27-29",
+      "city": "Wrocaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/283846819/",
+    "description": "<p>Zapraszamy na kolejn edycj DRUGa. Widzimy si jak zawsze w trzeci poniedziaek miesica o 19.00, tj. 21. lutego, w biurze Monterail (ul. Oawska).</p> <p>Planowane prezentacje:</p> <p>1. Serverless. Lessons learnt - Micha omnicki<br/>2. N + 1 - Robert Pankowecki</p> <p>Zapraszamy i czekamy na kolejne zgoszena!</p> "
+  },
+  {
+    "created": 1642081550000,
+    "local_date": "2022-01-17",
+    "local_time": "19:00",
+    "name": "DRUG #107 Stycze 2022",
+    "venue": {
+      "id": 26080357,
+      "name": "Monterail",
+      "lat": 51.10805130004883,
+      "lon": 17.036354064941406,
+      "repinned": true,
+      "address_1": "Oawska 27-29",
+      "city": "Wrocaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/283239193/",
+    "description": "<p>Nowy Rok, nowy ja, ale DRUG niezmiennie w trzeci poniedziaek miesica o 19.00.<br/>Widzimy si ponownie w biurze Monterail (ul. Oawska).<br/>Planowane prezentacje:<br/>1. Pogadajmy o architekturze aplikacji TODO/backlog - Andrzej Krzywda<br/>2. Events nice and nasty - Robert Pankowiecki (jak si uda dotrze)<br/>3. Dyskusja o strategii migracji do DDD - Piotr Jurewicz<br/>Zapraszamy!</p> "
+  },
+  {
+    "created": 1579172018000,
+    "local_date": "2020-01-20",
+    "local_time": "19:00",
+    "name": "DRUG #101 Stycze 2020",
+    "venue": {
+      "id": 26080357,
+      "name": "Monterail",
+      "lat": 51.10805130004883,
+      "lon": 17.036354064941406,
+      "repinned": false,
+      "address_1": "Oawska 27-29",
+      "city": "Wrocaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/267959325/",
+    "description": "<p>Wracamy po witeczno-noworocznej przerwie!</p> <p>Widzimy si jak zawsze trzeci poniedziaek miesica - 20. stycznia 2020 o godzinie 19:00. Zachcamy do zgaszania prezentacji!</p> <p>Zgoszone prezentacje:</p> <p>p> O braku standardw w GQLu - Robert Pankowecki<br/>br/> (miejsce dla Ciebie!)</p> <p>Jak zawsze - liczba slotw praktycznie nieograniczona.</p> "
+  },
+  {
+    "created": 1572353807000,
+    "local_date": "2019-11-18",
+    "local_time": "19:00",
+    "name": "DRUG #100 Listopad 2019",
+    "venue": {
+      "id": 26080357,
+      "name": "Monterail",
+      "lat": 51.10805130004883,
+      "lon": 17.036354064941406,
+      "repinned": true,
+      "address_1": "Oawska 27-29",
+      "city": "Wrocaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/266044909/",
+    "description": "<p>100 DRUG! Pijmy, bawmy si i porozmawiajmy o Ruby i nie tylko!</p> <p>Widzimy si jak zawsze trzeci poniedziaek miesica - 18. listopada 2019 o 19:00. Zachcamy do zgaszania prezentacji. Mog by sentymentalne ;)</p> <p>Zgoszone prezentacje:</p> <p>p> Kilka wad Active Recorda - Rafa asocha<br/>br/> On krafting JSON APIs - Pawe witkowski<br/>br/> (miejsce dla Ciebie!)</p> <p>Jak zawsze - liczba slotw praktycznie nieograniczona.</p> "
+  },
+  {
+    "created": 1568708297000,
+    "local_date": "2019-10-21",
+    "local_time": "19:00",
+    "name": "DRUG #99 Padziernik 2019",
+    "venue": {
+      "id": 26080357,
+      "name": "Monterail",
+      "lat": 51.10805130004883,
+      "lon": 17.036354064941406,
+      "repinned": true,
+      "address_1": "Oawska 27-29",
+      "city": "Wrocaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/264918841/",
+    "description": "<p>Widzimy si jak zawsze w trzeci poniedziaek miesica - 21 padziernika o godzinie 19:00.</p> <p>Zgoszone prezentacje:</p> <p>p> 99 problemw z SOA - Robert Pankowecki<br/>br/> A/B Testing zrobiony chyba dobrze - Jan Filipowski<br/>br/> (miejsce dla Ciebie!)</p> <p>Jak zawsze - liczba slotw praktycznie nieograniczona.</p> "
+  },
+  {
+    "created": 1568643832000,
+    "local_date": "2019-09-16",
+    "local_time": "19:00",
+    "name": "DRUG #98 Wrzesie 2019",
+    "venue": {
+      "id": 26080357,
+      "name": "Monterail",
+      "lat": 51.10805130004883,
+      "lon": 17.036354064941406,
+      "repinned": false,
+      "address_1": "Oawska 27-29",
+      "city": "Wrocaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/264893266/",
+    "description": "<p>Zapraszamy na pierwsze po wakacjach spotkanie! Widzimy si jak zawsze w trzeci poniedziaek miesica - 16 wrzenia o godzinie 19:00.</p> <p>Zgoszone prezentacje:</p> <p>p> Dlaczego Elixir - Jan Dudulski<br/>br/> (miejsce dla Ciebie!)</p> <p>Jak zawsze - liczba slotw praktycznie nieograniczona.</p> "
+  },
+  {
+    "created": 1560340111000,
+    "local_date": "2019-06-17",
+    "local_time": "19:00",
+    "name": "DRUG #96 Czerwiec 2019",
+    "venue": {
+      "id": 26080357,
+      "name": "Monterail",
+      "lat": 51.10805130004883,
+      "lon": 17.036354064941406,
+      "repinned": true,
+      "address_1": "Oawska 27-29",
+      "city": "Wrocaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/262253556/",
+    "description": "<p>Widzimy si jak zawsze w trzeci poniedziaek miesica - 17 czerwca o godzinie 19:00.</p> <p>Zgoszone prezentacje:</p> <p>p> Migracja z MySQL do Postgresa - Pawe Pacana<br/>br/> Dry-validation - Jan Dudulski<br/>br/> (miejsce dla Ciebie!)</p> <p>Jak zawsze - liczba slotw praktycznie nieograniczona.</p> "
+  },
+  {
+    "created": 1556655774000,
+    "local_date": "2019-05-20",
+    "local_time": "19:00",
+    "name": "DRUG #95 Maj 2019",
+    "venue": {
+      "id": 26080357,
+      "name": "Monterail",
+      "lat": 51.10805130004883,
+      "lon": 17.036354064941406,
+      "repinned": true,
+      "address_1": "Oawska 27-29",
+      "city": "Wrocaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/261054438/",
+    "description": "<p>Zapraszamy na przedwiteczne spotkanie w kwietniu i zachcamy do zgaszania prezentacji. Widzimy si jak zawsze w trzeci poniedziaek miesica - 20 maja o godzinie 19:00.</p> <p>Zgoszone prezentacje:</p> <p>p> Testy ktrych nie napisz - Rafa asocha<br/>br/> ...? :)</p> <p>Jak zwykle liczba slotw nieograniczona, doda mona si zawsze -- na DRUG-u bd ciekawe dyskusje tylko wtedy, jeli co opowiesz ;) Zgaszajcie swoje propozycje!</p> "
+  },
+  {
+    "created": 1553252083000,
+    "local_date": "2019-04-15",
+    "local_time": "19:00",
+    "name": "DRUG #94 Kwiecie 2019",
+    "venue": {
+      "id": 26080357,
+      "name": "Monterail",
+      "lat": 51.10805130004883,
+      "lon": 17.036354064941406,
+      "repinned": false,
+      "address_1": "Oawska 27-29",
+      "city": "Wrocaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/259981092/",
+    "description": "<p>Zapraszamy na przedwiteczne spotkanie w kwietniu i zachcamy do zgaszania prezentacji. Widzimy si jak zawsze w trzeci poniedziaek miesica - 15 kwietnia o godzinie 19:00.</p> <p>Zgoszone prezentacje:</p> <p>p> Mutation testing - Robert Pankowecki<br/>br/> ...? :)</p> <p>Jak zwykle liczba slotw nieograniczona, doda mona si zawsze -- na DRUG-u bd ciekawe dyskusje tylko wtedy, jeli co opowiesz ;) Zgaszajcie swoje propozycje!</p> "
+  },
+  {
+    "created": 1551088913000,
+    "local_date": "2019-03-18",
+    "local_time": "19:00",
+    "name": "DRUG #93 Marzec 2019",
+    "venue": {
+      "id": 26080357,
+      "name": "Monterail",
+      "lat": 51.10805130004883,
+      "lon": 17.036354064941406,
+      "repinned": true,
+      "address_1": "Oawska 27-29",
+      "city": "Wrocaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/259261154/",
+    "description": "<p>Zapraszamy na kolejne spotkanie w marcu i zachcamy do zgaszania prezentacji. Widzimy si jak zawsze w trzeci poniedziaek miesica - 18 marca o godzinie 19:00.</p> <p>Zgoszone prezentacje:</p> <p>p> ...? :)</p> <p>Jak zwykle liczba slotw nieograniczona, doda mona si zawsze -- na DRUG-u bd ciekawe dyskusje tylko wtedy, jeli co opowiesz ;) Zgaszajcie swoje propozycje!</p> "
+  },
+  {
+    "created": 1548172892000,
+    "local_date": "2019-02-18",
+    "local_time": "19:00",
+    "name": "DRUG #92 Luty 2019",
+    "venue": {
+      "id": 26080357,
+      "name": "Monterail",
+      "lat": 51.10805130004883,
+      "lon": 17.036354064941406,
+      "repinned": true,
+      "address_1": "Oawska 27-29",
+      "city": "Wrocaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/258295380/",
+    "description": "<p>Nie zatrzymujemy si i zapraszamy na kolejne spotkanie w lutym. Widzimy si jak zawsze w trzeci poniedziaek miesica - 18 lutego o godzinie 19:00.</p> <p>Zgoszone prezentacje:</p> <p>p> Serverless na AWS + Ruby - Pawe Pacana<br/>br/> ...? :)</p> <p>Jak zwykle liczba slotw nieograniczona, doda mona si zawsze -- na DRUG-u bd ciekawe dyskusje tylko wtedy, jeli co opowiesz ;) Zgaszajcie swoje propozycje!</p> "
+  },
+  {
+    "created": 1547498813000,
+    "local_date": "2019-01-21",
+    "local_time": "19:00",
+    "name": "DRUG #91 Stycze 2019",
+    "venue": {
+      "id": 26080357,
+      "name": "Monterail",
+      "lat": 51.10805130004883,
+      "lon": 17.036354064941406,
+      "repinned": true,
+      "address_1": "Oawska 27-29",
+      "city": "Wrocaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/258076999/",
+    "description": "<p>Zapraszamy na pierwsze spotkanie w Nowym Roku, 21 stycznia o 19:00.</p> <p>Zgoszone prezentacje:</p> <p>p> Wycieki danych i jak sobie z nimi radzi - Pawe Pokrywka<br/>br/> Docker on Heroku - Jan Dudulski<br/>br/> ...? :)</p> <p>Jak zwykle liczba slotw nieograniczona, doda mona si zawsze -- na DRUG-u bd ciekawe dyskusje tylko wtedy, jeli co opowiesz ;) Zgaszajcie swoje propozycje!</p> "
+  },
+  {
+    "created": 1528401844000,
+    "local_date": "2018-06-18",
+    "local_time": "19:00",
+    "name": "DRUG #89 Czerwiec 2018",
+    "venue": {
+      "id": 25574512,
+      "name": "Parish Gastropub",
+      "lat": 51.10870361328125,
+      "lon": 17.026697158813477,
+      "repinned": false,
+      "address_1": "witego Antoniego 2/4",
+      "city": "Wrocaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/251525710/",
+    "description": "<p>Zapraszamy jak zwykle w trzeci poniedziaek miesica - tym razem bdzie to 18 czerwca.</p> <p>Zgoszone prezentacje:</p> <p>p> Norbert Wjtowicz - \"DATALOG: Data All Truth Append Log Obtain Graph\"<br/>br/> ...? :)</p> <p>Jak zwykle liczba slotw nieograniczona, doda mona si zawsze -- na DRUG-u bd ciekawe dyskusje tylko wtedy, jeli co opowiesz ;) Zgaszajcie swoje propozycje!</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1524050817000,
+    "local_date": "2018-05-21",
+    "local_time": "19:00",
+    "name": "DRUG #88 Maj 2018",
+    "venue": {
+      "id": 25574512,
+      "name": "Parish Gastropub",
+      "lat": 51.10870361328125,
+      "lon": 17.026697158813477,
+      "repinned": false,
+      "address_1": "witego Antoniego 2/4",
+      "city": "Wrocaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/249898937/",
+    "description": "<p>Zapraszamy jak zwykle w trzeci poniedziaek miesica - tym razem bdzie to 21 maja.</p> <p>Zgoszone prezentacje:</p> <p>p> Andrzej Krzywda - Hyper/Ruby<br/>br/> Robert Pankowecki - Czy sprzedawcy SQLowych baz danych nas oszukali?<br/>br/> Micha Bronikowski - Efektywno Ruby/Ruby+FFI(C/Go...)/GC tunning (nie wczeniej ni 20.30)</p> <p>Jak zwykle liczba slotw nieograniczona, doda mona si zawsze -- na DRUG-u bd ciekawe dyskusje tylko wtedy, jeli co opowiesz ;) Zgaszajcie swoje propozycje!</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1522227774000,
+    "local_date": "2018-04-16",
+    "local_time": "19:00",
+    "name": "DRUG Kwiecie 2018",
+    "venue": {
+      "id": 25241773,
+      "name": "Aviva Poland",
+      "lat": 51.10870361328125,
+      "lon": 17.026697158813477,
+      "repinned": false,
+      "address_1": "w.Antoniego 20/4",
+      "city": "Wrocaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/249184513/",
+    "description": "<p>Wiemy, e tsknilicie! Po krtkiej przerwie DRUG wraca! Zapraszamy jak zwykle w trzeci poniedziaek miesica - tym razem bdzie to 16 kwietnia.</p> <p>Zgoszone prezentacje:</p> <p>p> Rafa asocha - Subject-oriented programming</p> <p>p> Katarzyna Starachowicz - \"Ja te chciabym zosta programist\". Krtki kurs pierwszej pomocy</p> <p>p> Jan Dudek - Front-end Deployment with Lambda@Edge</p> <p>Mamy jeszcze wolne sloty. Zgaszajcie swoje propozycje!</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1494882972000,
+    "local_date": "2017-10-16",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 24879248,
+      "name": "Klub PROZA",
+      "lat": 51.11073303222656,
+      "lon": 17.030536651611328,
+      "repinned": false,
+      "address_1": "Przejcie Garncarskie 2, Rynek",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/cdzdcnywnbvb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1494882972000,
+    "local_date": "2017-09-18",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 24879248,
+      "name": "Klub PROZA",
+      "lat": 51.11073303222656,
+      "lon": 17.030536651611328,
+      "repinned": false,
+      "address_1": "Przejcie Garncarskie 2, Rynek",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/cdzdcnywmbxb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1494882972000,
+    "local_date": "2017-08-21",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 24879248,
+      "name": "Klub PROZA",
+      "lat": 51.11073303222656,
+      "lon": 17.030536651611328,
+      "repinned": false,
+      "address_1": "Przejcie Garncarskie 2, Rynek",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/cdzdcnywlbcc/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1494882972000,
+    "local_date": "2017-07-17",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 24879248,
+      "name": "Klub PROZA",
+      "lat": 51.11073303222656,
+      "lon": 17.030536651611328,
+      "repinned": false,
+      "address_1": "Przejcie Garncarskie 2, Rynek",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/cdzdcnywkbwb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1494882972000,
+    "local_date": "2017-06-19",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 24879248,
+      "name": "Klub PROZA",
+      "lat": 51.11073303222656,
+      "lon": 17.030536651611328,
+      "repinned": false,
+      "address_1": "Przejcie Garncarskie 2, Rynek",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/cdzdcnywjbzb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1458203614000,
+    "local_date": "2017-05-15",
+    "local_time": "19:15",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 23660645,
+      "name": "Szynkarnia",
+      "lat": 51.10932922363281,
+      "lon": 17.025270462036133,
+      "repinned": false,
+      "address_1": "w. Antoniego 15",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/jgrprlywhbtb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Year with Hanami - Grzegorz uszczek</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1458203614000,
+    "local_date": "2017-04-17",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 23701391,
+      "name": "Zakad Usug Piwnych",
+      "lat": 51.11096954345703,
+      "lon": 17.024120330810547,
+      "repinned": false,
+      "address_1": "ul. Ruska 34",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/jgrprlywgbwb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1458203614000,
+    "local_date": "2017-03-20",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 24879248,
+      "name": "Klub PROZA",
+      "lat": 51.11073303222656,
+      "lon": 17.030536651611328,
+      "repinned": false,
+      "address_1": "Przejcie Garncarskie 2, Rynek",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/jgrprlywfbbc/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Window functions, ranges, views and other tricks for PostgreSQL - Grzegorz uszczek</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1458203614000,
+    "local_date": "2017-02-20",
+    "local_time": "19:30",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 24907528,
+      "name": "Wrocawski Dom Literatury",
+      "lat": 51.11005783081055,
+      "lon": 17.03261375427246,
+      "repinned": false,
+      "address_1": "Przejcie Garncarskie 2",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/jgrprlywdbbc/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>* From developers to robots - Andrzej Krzywda</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2017-02-06",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship",
+    "venue": {
+      "id": 22208852,
+      "name": "Kontynuacja",
+      "lat": 51.1084098815918,
+      "lon": 17.031679153442383,
+      "repinned": false,
+      "address_1": "Ofiar Owicimskich 17",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkywdbjb/",
+    "description": "<p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1458203614000,
+    "local_date": "2017-01-16",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 24907528,
+      "name": "Wrocawski Dom Literatury",
+      "lat": 51.11005783081055,
+      "lon": 17.03261375427246,
+      "repinned": false,
+      "address_1": "Przejcie Garncarskie 2",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/jgrprlywcbvb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>* Running your tests on production - Tomasz Wrbel</p> <p>* Is WebAssembly a game-changer? - Open discussion</p> <p>* Tests vs Types. Do we need both? - Open discussion</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2017-01-02",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship",
+    "venue": {
+      "id": 22208852,
+      "name": "Kontynuacja",
+      "lat": 51.1084098815918,
+      "lon": 17.031679153442383,
+      "repinned": false,
+      "address_1": "Ofiar Owicimskich 17",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkywcbdb/",
+    "description": "<p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1481144103000,
+    "local_date": "2016-12-19",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup Grudzie",
+    "venue": {
+      "id": 24907528,
+      "name": "Wrocawski Dom Literatury",
+      "lat": 51.11005783081055,
+      "lon": 17.03261375427246,
+      "repinned": false,
+      "address_1": "Przejcie Garncarskie 2",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/jgrprlyvqbzb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>* Implementing DDD. Lessons learnt. Part 2 - Micha omnicki<br/>* Websockets in Akka - Robert Pankowecki<br/>* Try some ES2017 async/await today and indent less! - Tomasz Wrbel</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2016-12-05",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship",
+    "venue": {
+      "id": 22208852,
+      "name": "Kontynuacja",
+      "lat": 51.1084098815918,
+      "lon": 17.031679153442383,
+      "repinned": false,
+      "address_1": "Ofiar Owicimskich 17",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkyvqbhb/",
+    "description": "<p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1478033361000,
+    "local_date": "2016-11-21",
+    "local_time": "19:30",
+    "name": "DRUG Listopad 2016",
+    "venue": {
+      "id": 24907528,
+      "name": "Wrocawski Dom Literatury",
+      "lat": 51.11005783081055,
+      "lon": 17.03261375427246,
+      "repinned": false,
+      "address_1": "Przejcie Garncarskie 2",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/jgrprlyvpbcc/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Event sourcing with Akka - Robert Pankowecki Implementing DDD - Lessons Learned - Micha omnicki DDD in startup - Jan Filipowski O Rucie - Cyryl Potnicki Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2016-11-07",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship - \"Borg, Omega, and Kubernetes\"",
+    "venue": {
+      "id": 22208852,
+      "name": "Kontynuacja",
+      "lat": 51.1084098815918,
+      "lon": 17.031679153442383,
+      "repinned": false,
+      "address_1": "Ofiar Owicimskich 17",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkyvpbkb/",
+    "description": "<p>Artyku do przeczytania przed spotkaniem:<a href=\"http://queue.acm.org/detail.cfm?id=2898444\" class=\"linkified\">http://queue.acm.org/detail.cfm?id=2898444</a></p> <p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1458203614000,
+    "local_date": "2016-10-17",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 23701391,
+      "name": "Zakad Usug Piwnych",
+      "lat": 51.11096954345703,
+      "lon": 17.024120330810547,
+      "repinned": false,
+      "address_1": "ul. Ruska 34",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/jgrprlyvnbwb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2016-10-03",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship",
+    "venue": {
+      "id": 22208852,
+      "name": "Kontynuacja",
+      "lat": 51.1084098815918,
+      "lon": 17.031679153442383,
+      "repinned": false,
+      "address_1": "Ofiar Owicimskich 17",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkyvnbfb/",
+    "description": "<p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1458203614000,
+    "local_date": "2016-09-19",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 23701391,
+      "name": "Zakad Usug Piwnych",
+      "lat": 51.11096954345703,
+      "lon": 17.024120330810547,
+      "repinned": false,
+      "address_1": "ul. Ruska 34",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/jgrprlyvmbzb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2016-09-05",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship",
+    "venue": {
+      "id": 22208852,
+      "name": "Kontynuacja",
+      "lat": 51.1084098815918,
+      "lon": 17.031679153442383,
+      "repinned": false,
+      "address_1": "Ofiar Owicimskich 17",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkyvmbhb/",
+    "description": "<p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1458203614000,
+    "local_date": "2016-08-15",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 23701391,
+      "name": "Zakad Usug Piwnych",
+      "lat": 51.11096954345703,
+      "lon": 17.024120330810547,
+      "repinned": false,
+      "address_1": "ul. Ruska 34",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/jgrprlyvlbtb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2016-08-01",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship",
+    "venue": {
+      "id": 22208852,
+      "name": "Kontynuacja",
+      "lat": 51.1084098815918,
+      "lon": 17.031679153442383,
+      "repinned": false,
+      "address_1": "Ofiar Owicimskich 17",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkyvlbcb/",
+    "description": "<p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1458203614000,
+    "local_date": "2016-07-18",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 23701391,
+      "name": "Zakad Usug Piwnych",
+      "lat": 51.11096954345703,
+      "lon": 17.024120330810547,
+      "repinned": false,
+      "address_1": "ul. Ruska 34",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/jgrprlyvkbxb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2016-07-04",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship",
+    "venue": {
+      "id": 22208852,
+      "name": "Kontynuacja",
+      "lat": 51.1084098815918,
+      "lon": 17.031679153442383,
+      "repinned": false,
+      "address_1": "Ofiar Owicimskich 17",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkyvkbgb/",
+    "description": "<p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1458203614000,
+    "local_date": "2016-06-20",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 23701391,
+      "name": "Zakad Usug Piwnych",
+      "lat": 51.11096954345703,
+      "lon": 17.024120330810547,
+      "repinned": false,
+      "address_1": "ul. Ruska 34",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/jgrprlyvjbbc/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Hanami - Framework do malych projektw - <i>Grzegorz uszczek</i></p> <p>Build great front-end without touching CSS -<i>Jan Dudek</i></p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2016-06-06",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship",
+    "venue": {
+      "id": 22208852,
+      "name": "Kontynuacja",
+      "lat": 51.1084098815918,
+      "lon": 17.031679153442383,
+      "repinned": false,
+      "address_1": "Ofiar Owicimskich 17",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkyvjbjb/",
+    "description": "<p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1458203614000,
+    "local_date": "2016-05-16",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 23701391,
+      "name": "Zakad Usug Piwnych",
+      "lat": 51.11096954345703,
+      "lon": 17.024120330810547,
+      "repinned": false,
+      "address_1": "ul. Ruska 34",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/jgrprlyvhbvb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2016-05-09",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship #31 - Reactive Microservices Architecture",
+    "venue": {
+      "id": 22208852,
+      "name": "Kontynuacja",
+      "lat": 51.1084098815918,
+      "lon": 17.031679153442383,
+      "repinned": false,
+      "address_1": "Ofiar Owicimskich 17",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkyvhbdb/",
+    "description": "<p>Do przeczytania przed spotkaniem:</p> <p><a href=\"https://www.lightbend.com/reactive-microservices-architecture\">http</a><a href=\"https://www.lightbend.com/reactive-microservices-architecture\">s://www.lightbend.com/reactive-microservices-architecture</a></p> <p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1402863797000,
+    "local_date": "2016-04-18",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 23701391,
+      "name": "Zakad Usug Piwnych",
+      "lat": 51.11096954345703,
+      "lon": 17.024120330810547,
+      "repinned": false,
+      "address_1": "ul. Ruska 34",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dsvstjyvgbxb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p><b>Norbert shows some code. How to build non-trivial web app with bleeding-edge alien technologies, using*not*yet another todo app.\"</b>, Norbert Wjtowicz</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2016-04-04",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship #30 - Unikernels",
+    "venue": {
+      "id": 22208852,
+      "name": "Kontynuacja",
+      "lat": 51.1084098815918,
+      "lon": 17.031679153442383,
+      "repinned": false,
+      "address_1": "Ofiar Owicimskich 17",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkyvgbgb/",
+    "description": "<p>Materia do przeczytania przed spotkaniem:</p> <p>*<a href=\"http://anil.recoil.org/papers/2013-asplos-mirage.pdf\" class=\"linkified\">http://anil.recoil.org/papers/2013-asplos-mirage.pdf</a></p> <p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1402863797000,
+    "local_date": "2016-03-21",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup #69",
+    "venue": {
+      "id": 23701391,
+      "name": "Zakad Usug Piwnych",
+      "lat": 51.11096954345703,
+      "lon": 17.024120330810547,
+      "repinned": false,
+      "address_1": "ul. Ruska 34",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dsvstjyvfbcc/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Grzegorz uszczek -Postgres &amp; REST</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2016-03-07",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship",
+    "venue": {
+      "id": 23582815,
+      "name": "Instytut Informatyki, Uniwersytet Wrocawski, SALA 25",
+      "lat": 51.1108283996582,
+      "lon": 17.052919387817383,
+      "repinned": false,
+      "address_1": "Fryderyka Joliot-Curie 15",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkyvfbkb/",
+    "description": "<p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1402863797000,
+    "local_date": "2016-02-15",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup #68",
+    "venue": {
+      "id": 23701391,
+      "name": "Zakad Usug Piwnych",
+      "lat": 51.11096954345703,
+      "lon": 17.024120330810547,
+      "repinned": false,
+      "address_1": "ul. Ruska 34",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dsvstjyvdbtb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2016-02-01",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship - Hypermedia",
+    "venue": {
+      "id": 22208852,
+      "name": "Kontynuacja",
+      "lat": 51.1084098815918,
+      "lon": 17.031679153442383,
+      "repinned": false,
+      "address_1": "Ofiar Owicimskich 17",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkyvdbcb/",
+    "description": "<p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1402863797000,
+    "local_date": "2016-01-18",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup - policja developerska ;)",
+    "venue": {
+      "id": 23701391,
+      "name": "Zakad Usug Piwnych",
+      "lat": 51.11096954345703,
+      "lon": 17.024120330810547,
+      "repinned": false,
+      "address_1": "ul. Ruska 34",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dsvstjyvcbxb/",
+    "description": "<p><img src=\"http://photos4.meetupstatic.com/photos/event/8/5/0/1/600_445594049.jpeg\" /></p> <p>Zgoszone prezentacje:</p> <p> \"<b>Policja developerska\" - Robert Pankowecki</b></p> <p><b>\"HTTP/2 - co to i z czym to si je\" - Grzegorz uszczek</b></p> <p> \"<b>Ruby 2.3 - co nowego\" - Grzegorz uszczek<br/></b></p> <p><b>DDD, Rails and persistence</b></p> <p> <b>Know your Ruby<br/></b></p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1402863797000,
+    "local_date": "2015-12-21",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "link": "https://www.meetup.com/drugpl/events/dsvstjytqbcc/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2015-12-07",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship",
+    "venue": {
+      "id": 22208852,
+      "name": "Kontynuacja",
+      "lat": 51.1084098815918,
+      "lon": 17.031679153442383,
+      "repinned": false,
+      "address_1": "Ofiar Owicimskich 17",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkytqbkb/",
+    "description": "<p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1402863797000,
+    "local_date": "2015-11-16",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "link": "https://www.meetup.com/drugpl/events/dsvstjytpbvb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2015-11-02",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship",
+    "venue": {
+      "id": 22208852,
+      "name": "Kontynuacja",
+      "lat": 51.1084098815918,
+      "lon": 17.031679153442383,
+      "repinned": false,
+      "address_1": "Ofiar Owicimskich 17",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkytpbdb/",
+    "description": "<p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1402863797000,
+    "local_date": "2015-10-19",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "link": "https://www.meetup.com/drugpl/events/dsvstjytnbzb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2015-10-05",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship",
+    "venue": {
+      "id": 22208852,
+      "name": "Kontynuacja",
+      "lat": 51.1084098815918,
+      "lon": 17.031679153442383,
+      "repinned": false,
+      "address_1": "Ofiar Owicimskich 17",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkytnbhb/",
+    "description": "<p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1402863797000,
+    "local_date": "2015-09-21",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup #67",
+    "venue": {
+      "id": 23701391,
+      "name": "Zakad Usug Piwnych",
+      "lat": 51.11096954345703,
+      "lon": 17.024120330810547,
+      "repinned": false,
+      "address_1": "ul. Ruska 34",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dsvstjytmbcc/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>* <b>\"Masz dane i co dalej? O wizualizacji z D3.js\"</b> opowie Pawe Pacana</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2015-09-07",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship #27 - Reactive Streams",
+    "venue": {
+      "id": 23660645,
+      "name": "Szynkarnia",
+      "lat": 51.10932922363281,
+      "lon": 17.025270462036133,
+      "repinned": false,
+      "address_1": "w. Antoniego 15",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkytmbkb/",
+    "description": "<p>Materiay:</p> <p><a href=\"http://www.reactive-streams.org/\"><a href=\"http://www.reactive-streams.org/\" class=\"linkified\">http://www.reactive-streams.org/</a></a></p> <p><a href=\"https://gist.github.com/staltz/868e7e9bc2a7b8c1f754\"><a href=\"https://gist.github.com/staltz/868e7e9bc2a7b8c1f754\" class=\"linkified\">https://gist.github.com/staltz/868e7e9bc2a7b8c1f754</a></a>- dugie ale pokrywa 100% tematu (reactive programming)</p> <p><a href=\"https://github.com/reactive-streams/reactive-streams-jvm/\"><a href=\"https://github.com/reactive-streams/reactive-streams-jvm/\" class=\"linkified\">https://github.com/reactive-streams/reactive-streams-jvm/</a></a></p> <p><a href=\"https://github.com/ReactiveX/RxRuby\"><a href=\"https://github.com/ReactiveX/RxRuby\" class=\"linkified\">https://github.com/ReactiveX/RxRuby</a></a></p> <p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1439719215000,
+    "local_date": "2015-08-27",
+    "local_time": "23:45",
+    "name": "DRUG Sport #4 - Koszykwka",
+    "link": "https://www.meetup.com/drugpl/events/224666648/",
+    "description": "<p>W terminie midzy 24tym a 30tym sierpnia. Jeli chcesz zagra wypenij, ktre terminy Ci pasuj na: <a href=\"http://doodle.com/eudeyktyziege8bf\" class=\"linkified\">http://doodle.com/eudeyktyziege8bf</a> i ustalimy konkretn dat.</p> "
+  },
+  {
+    "created": 1402863797000,
+    "local_date": "2015-08-17",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup #66",
+    "venue": {
+      "id": 23701391,
+      "name": "Zakad Usug Piwnych",
+      "lat": 51.11096954345703,
+      "lon": 17.024120330810547,
+      "repinned": false,
+      "address_1": "ul. Ruska 34",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dsvstjytlbwb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p><b>Greg Dziemidowicz -Microservices od kuchni</b></p> <p>Opis prezentacji:</p> <p>Architektura microservices jest obecnie bardzo modna. Co czeka organizacje, ktrej uda si stworzy wicej ni kilka microservicow? W tej prezentacji przedstawi niektre z wyzwa z jakimi adeptowi tej architektury przyjdzie si zmierzy i opowiem jak zespoy, w ktrych pracowaem, prboway im sprosta. Midzy innymi porusz kwesti migracji z data center do AWS - temat, ktry czsto towarzyszy wspomnianej wyej architekturze.</p> <p>Oraz bio:</p> <p>Grzegorz dwa lata temu przeprowadzi sie z Berlina, gdzie pracowa w Nokii do Australii. Pracuje tam dla malej, ciekawej firmy konsultingowej Cogent. Jednym z klientw, dla ktrego mia okazje pracowa by realestate.com.au - jeden z pionierw architektury microservices. Grzegorz by czonkiem zespou Delivery engineering, odpowiedzialnego za przetarcie szlaku z data center do AWS. Szlak zosta przetarty i po drodze Grzegorz sporo si nauczy. Obecnie Grzegorz prowadzi may zespl Delivery Engineering dla innego klienta, redbubble.com, starajc si wykorzysta to co si sprawdzio i unikn bdw popenionych w poprzednim projekcie. W czasie wolnym, Grzegorza mona spotka na Code Retreat lub na hackathonie, ktry odbywa si akurat gdzie w pobliu.</p> <p><b>Andrzej Krzywda - \"From legacy to DDD\"</b></p> <p>na bazie tych slajdw:</p> <p><a href=\"http://www.slideshare.net/andrzejkrzywda/from-legacy-to-ddd\"><a href=\"http://www.slideshare.net/andrzejkrzywda/from-legacy-to-ddd\" class=\"linkified\">http://www.slideshare.net/andrzejkrzywda/from-legacy-to-ddd</a></a></p> <p>O grupie:</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2015-08-03",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship #26 Immutability Changes Everything!",
+    "venue": {
+      "id": 23660645,
+      "name": "Szynkarnia",
+      "lat": 51.10932922363281,
+      "lon": 17.025270462036133,
+      "repinned": false,
+      "address_1": "w. Antoniego 15",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkytlbfb/",
+    "description": "<p>Materiay do przeczytania przed spotkaniem:</p> <p>whitepaper:<a href=\"http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf\"><a href=\"http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf\" class=\"linkified\">http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf</a></a>(krtki)</p> <p>video 45 minut:<a href=\"https://vimeo.com/52831373\"><a href=\"https://vimeo.com/52831373\" class=\"embedded\">https://vimeo.com/52831373</a></a></p> <p>dyskusja:<a href=\"http://highscalability.com/blog/2015/1/26/paper-immutability-changes-everything-by-pat-helland.html\"><a href=\"http://highscalability.com/blog/2015/1/26/paper-immutability-changes-everything-by-pat-helland.html\" class=\"linkified\">http://highscalability.com/blog/2015/1/26/paper-immutability-changes-everything-by-pat-helland.html</a></a></p> <p><a href=\"https://www.youtube.com/watch?v=I7IdS-PbEgI\" class=\"embedded\">https://www.youtube.com/watch?v=I7IdS-PbEgI</a></p> <p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1402863797000,
+    "local_date": "2015-07-20",
+    "local_time": "19:00",
+    "name": "DRUG #65",
+    "venue": {
+      "id": 23701391,
+      "name": "Zakad Usug Piwnych",
+      "lat": 51.11096954345703,
+      "lon": 17.024120330810547,
+      "repinned": false,
+      "address_1": "ul. Ruska 34",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dsvstjytkbbc/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>* Grzegorz uszczek -<b> o bazach danych i refaktoryzacji</b></p> <p>* Robert Pankowecki - <b>animacje w React.js</b></p> <p>* Pawe Pacana -<b>nix/nixos/nixops</b></p> <p>*Robert Pankowecki - <b>najgorsze API wiata ;)</b></p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2015-07-06",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship",
+    "venue": {
+      "id": 22208852,
+      "name": "Kontynuacja",
+      "lat": 51.1084098815918,
+      "lon": 17.031679153442383,
+      "repinned": false,
+      "address_1": "Ofiar Owicimskich 17",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkytkbjb/",
+    "description": "<p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1402863797000,
+    "local_date": "2015-06-15",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "link": "https://www.meetup.com/drugpl/events/dsvstjytjbtb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2015-06-01",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship #24 - CAP",
+    "venue": {
+      "id": 23660645,
+      "name": "Szynkarnia",
+      "lat": 51.10932922363281,
+      "lon": 17.025270462036133,
+      "repinned": false,
+      "address_1": "w. Antoniego 15",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkytjbcb/",
+    "description": "<p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1402863797000,
+    "local_date": "2015-05-18",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 23835985,
+      "name": "Pub Graciarnia",
+      "lat": 51.107601165771484,
+      "lon": 17.030170440673828,
+      "repinned": false,
+      "address_1": "Kazimierza Wielkiego 39",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dsvstjythbxb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2015-05-04",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship",
+    "venue": {
+      "id": 23660645,
+      "name": "Szynkarnia",
+      "lat": 51.10932922363281,
+      "lon": 17.025270462036133,
+      "repinned": false,
+      "address_1": "w. Antoniego 15",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkythbgb/",
+    "description": "<p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1402863797000,
+    "local_date": "2015-04-20",
+    "local_time": "19:00",
+    "name": "DRUG #62",
+    "venue": {
+      "id": 23701391,
+      "name": "Zakad Usug Piwnych",
+      "lat": 51.11096954345703,
+      "lon": 17.024120330810547,
+      "repinned": false,
+      "address_1": "ul. Ruska 34",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dsvstjytgbbc/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Wojciech Langiewicz (lighting talk) \"Deterministyczne sposoby na losowo\"</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1425466517000,
+    "local_date": "2015-04-13",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship #22 - Model Aktorowy",
+    "venue": {
+      "id": 23660645,
+      "name": "Szynkarnia",
+      "lat": 51.10932922363281,
+      "lon": 17.025270462036133,
+      "repinned": false,
+      "address_1": "w. Antoniego 15",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkytgbjb/",
+    "description": "<p>Spotkanie przesunite tydzie pniej ze wzgldu na wita.</p> <p>Wybrany temat: Model Aktorowy</p> <p>Materiay:</p> <p><a href=\"http://en.wikipedia.org/wiki/Actor_model\"><a href=\"http://en.wikipedia.org/wiki/Actor_model\" class=\"linkified\">http://en.wikipedia.org/wiki/Actor_model</a></a></p> <p><a href=\"https://practicingruby.com/articles/gentle-intro-to-actor-based-concurrency\"><a href=\"https://practicingruby.com/articles/gentle-intro-to-actor-based-concurrency\" class=\"linkified\">https://practicingruby.com/articles/gentle-intro-to-actor-based-concurrency</a></a></p> <p><a href=\"http://rerun.me/2014/09/11/introducing-actors-akka-notes-part-1/\"><a href=\"http://rerun.me/2014/09/11/introducing-actors-akka-notes-part-1/\" class=\"linkified\">http://rerun.me/2014/09/11/introducing-actors-akka-notes-part-1/</a></a> (pierwsza cz z kilku)</p> <p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1402863797000,
+    "local_date": "2015-03-16",
+    "local_time": "19:00",
+    "name": "DRUG #61 - after wroc_love.rb",
+    "venue": {
+      "id": 23701391,
+      "name": "Zakad Usug Piwnych",
+      "lat": 51.11096954345703,
+      "lon": 17.024120330810547,
+      "repinned": false,
+      "address_1": "ul. Ruska 34",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dsvstjytfbvb/",
+    "description": "<p>All meeting details are on facebook:<a href=\"https://www.facebook.com/events/806119269443667/\" class=\"linkified\">https://www.facebook.com/events/806119269443667/</a></p> "
+  },
+  {
+    "created": 1426008453000,
+    "local_date": "2015-03-13",
+    "local_time": "10:30",
+    "name": "DRUG Sport #3 - Koszykwka",
+    "venue": {
+      "id": 23690757,
+      "name": "Studium Wychowania Fizycznego i Sportu Uniwersytetu Przyrodniczego we Wrocawiu",
+      "lat": 51.100460052490234,
+      "lon": 17.09758949279785,
+      "repinned": false,
+      "address_1": "Chemoskiego 43",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/221058373/",
+    "description": "<p>Przed <a href=\"http://www.wrocloverb.com/\">wroc_love.rb</a>nie moe zabrakn troch sportu. Biaystok przyjeda w odwiedziny nas pokona. Czy znajdziemy reprezentacj godn im si przeciwstawi?</p> <p><a href=\"http://swfis.up.wroc.pl/obiekty/hala-sportowa/\" class=\"linkified\">http://swfis.up.wroc.pl/obiekty/hala-sportowa/</a></p> <p>Razem pacimy ~225PLN+8%VAT za wynajem sali.</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2015-03-02",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship #21 Life beyond Distributed Transactions",
+    "venue": {
+      "id": 23660645,
+      "name": "Szynkarnia",
+      "lat": 51.10932922363281,
+      "lon": 17.025270462036133,
+      "repinned": false,
+      "address_1": "w. Antoniego 15",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkytfbdb/",
+    "description": "<p>Materiay na spotkanie do przeczytania:</p> <p><a href=\"http://www-db.cs.wisc.edu/cidr/cidr2007/papers/cidr07p15.pdf\"><a href=\"http://www-db.cs.wisc.edu/cidr/cidr2007/papers/cidr07p15.pdf\" class=\"linkified\">http://www-db.cs.wisc.edu/cidr/cidr2007/papers/cidr07p15.pdf</a></a></p> <p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1402863797000,
+    "local_date": "2015-02-16",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 22208852,
+      "name": "Kontynuacja",
+      "lat": 51.1084098815918,
+      "lon": 17.031679153442383,
+      "repinned": false,
+      "address_1": "Ofiar Owicimskich 17",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dsvstjytdbvb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1423214232000,
+    "local_date": "2015-02-08",
+    "local_time": "18:00",
+    "name": "DRUG Sport #2 - Badminton",
+    "venue": {
+      "id": 23605047,
+      "name": "Sportwerk",
+      "lat": 51.13935089111328,
+      "lon": 16.972570419311523,
+      "repinned": false,
+      "address_1": "Kozanowska 69",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/220344719/",
+    "description": "<p>Drugie spotkanie nowej inicjatywy, ktra ma na celu poprawianie naszej kondycji fizycznej, a nie tylko intelektualnej. Myl, e we wasnym znanym gronie bdzie nam atwiej si zmobilizowa. Badania pokazuj, e ludzie maj wiksza motywacj uprawia sport, jeli wiedz, e na miejscu spotkaj kogo znajomego. Zatem czemu nie spotka znajomych kolegw programistw bez kondycji, zmczy si i wymieni najnowszymi dowiadczeniami z projektw w aktywnej atmosferze. Sport pomaga te radzi sobie ze stresem :)</p> <p>Za pierwszym razem byo wietnie (2 korty, 7 osb) i dostalimy duy wycisk. Sport jest atwiejszy ni by si wydawao a rakietki mona wypoyczy na miejscu.</p> <p>Co 4 osoby wymagana rezerwacja kortu w sportwerk, liczba miejsc ograniczona. Koordynacja bdzie si odbywa na meetupie/hackpadzie/fb.</p> <p><a href=\"https://hackpad.com/DRUG-Sport-aw4QEmDOf4t#:h=Spotkanie-#2\" class=\"linkified\">https://hackpad.com/DRUG-Sport-aw4QEmDOf4t#:h=Spotkanie-#2</a></p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2015-02-02",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship #20 Contracts for checking code correctness",
+    "venue": {
+      "id": 22208852,
+      "name": "Kontynuacja",
+      "lat": 51.1084098815918,
+      "lon": 17.031679153442383,
+      "repinned": false,
+      "address_1": "Ofiar Owicimskich 17",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkytdbdb/",
+    "description": "<p>Materiay do przeczytania przed spotkaniem:</p> <p><i><a href=\"https://ghc.haskell.org/trac/ghc/wiki/Commentary/Contracts\">ghc.haskell.org/trac/ghc/wiki/Commentary/Contracts</a></i></p> <p><i><a href=\"https://github.com/cpa/haskellcontracts-examples\"><a href=\"https://github.com/cpa/haskellcontracts-examples\" class=\"linkified\">https://github.com/cpa/haskellcontracts-examples</a></a></i></p> <p><i><a href=\"https://github.com/egonSchiele/contracts.ruby\"><a href=\"https://github.com/egonSchiele/contracts.ruby\" class=\"linkified\">https://github.com/egonSchiele/contracts.ruby</a></a></i></p> <p><a href=\"http://research.microsoft.com/en-us/um/people/simonpj/papers/verify/HaskellContract.ps\"><a href=\"http://research.microsoft.com/en-us/um/people/simonpj/papers/verify/HaskellContract.ps\" class=\"linkified\">http://research.microsoft.com/en-us/um/people/simonpj/papers/verify/HaskellContract.ps</a></a></p> <p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1422545700000,
+    "local_date": "2015-02-01",
+    "local_time": "19:00",
+    "name": "DRUG Sport #1 - Badminton",
+    "venue": {
+      "id": 23605047,
+      "name": "Sportwerk",
+      "lat": 51.13935089111328,
+      "lon": 16.972570419311523,
+      "repinned": false,
+      "address_1": "Kozanowska 69",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/220163310/",
+    "description": "<p>Pierwsze spotkanie nowej inicjatywy, ktra ma na celu poprawianie naszej kondycji fizycznej, a nie tylko intelektualnej. Myl, e we wasnym znanym gronie bdzie nam atwiej si zmobilizowa. Badania pokazuj, e ludzie maj wiksza motywacj uprawia sport, jeli wiedz, e na miejscu spotkaj kogo znajomego. Zatem czemu nie spotka znajomych kolegw programistw bez kondycji, zmczy si i wymieni najnowszymi dowiadczeniami z projektw w aktywnej atmosferze.</p> <p>Byo duo gosw za pik non i koszykowk ale akurt tym razem pierwsze co si udao zorganizowa to badmintona ;)</p> <p>Co 4 osoby wymagana rezerwacja kortu w sportwerk, liczba miejsc ograniczona. Koordynacja bdzie si odbywa na meetupie/hackpadzie/fb.</p> <p><a href=\"https://hackpad.com/DRUG-Sport-aw4QEmDOf4t#:h=Spotkanie-#1\"><a href=\"https://hackpad.com/DRUG-Sport-aw4QEmDOf4t#:h=Spotkanie-#1\" class=\"linkified\">https://hackpad.com/DRUG-Sport-aw4QEmDOf4t#:h=Spotkanie-#1</a></a></p> "
+  },
+  {
+    "created": 1402863797000,
+    "local_date": "2015-01-19",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 23582815,
+      "name": "Instytut Informatyki, Uniwersytet Wrocawski, SALA 25",
+      "lat": 51.1108283996582,
+      "lon": 17.052919387817383,
+      "repinned": false,
+      "address_1": "Fryderyka Joliot-Curie 15",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dsvstjytcbzb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Grzegorz uszczek - \"How to live with monolith\"</p> <p>Przemek Kowalczyk - \"Processing\"</p> <p>Mirek Pragowski - \"Introduction to CQRS/Event Sourcing with Rails\"</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2015-01-05",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship #19",
+    "venue": {
+      "id": 22208852,
+      "name": "Kontynuacja",
+      "lat": 51.1084098815918,
+      "lon": 17.031679153442383,
+      "repinned": false,
+      "address_1": "Ofiar Owicimskich 17",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkytcbhb/",
+    "description": "<p>Wybrany temat: <b>Do static type systems improve the maintainability of software systems?</b></p> <p>Materiay:<a href=\"http://pleiad.dcc.uchile.cl/papers/2012/kleinschmagerAl-icpc2012.pdf\"><br/></a></p> <p><a href=\"http://pleiad.dcc.uchile.cl/papers/2012/kleinschmagerAl-icpc2012.pdf\"><a href=\"http://pleiad.dcc.uchile.cl/papers/2012/kleinschmagerAl-icpc2012.pdf\" class=\"linkified\">http://pleiad.dcc.uchile.cl/papers/2012/kleinschmagerAl-icpc2012.pdf</a></a><a href=\"https://medium.com/@octskyward/type-safety-and-rngs-40e3ec71ab3a\"><br/></a></p> <p><a href=\"https://medium.com/@octskyward/type-safety-and-rngs-40e3ec71ab3a\"><a href=\"https://medium.com/@octskyward/type-safety-and-rngs-40e3ec71ab3a\" class=\"linkified\">https://medium.com/@octskyward/type-safety-and-rngs-40e3ec71ab3a</a></a> (opisany ciekawy przypadek)</p> <p><a href=\"http://java.dzone.com/articles/static-typing-not-type\"><a href=\"http://java.dzone.com/articles/static-typing-not-type\" class=\"linkified\">http://java.dzone.com/articles/static-typing-not-type</a></a></p> <p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1402863797000,
+    "local_date": "2014-12-15",
+    "local_time": "19:00",
+    "name": "DRUG #59",
+    "venue": {
+      "id": 21358852,
+      "name": "Pub Wodkowica 21",
+      "lat": 51.10905075073242,
+      "lon": 17.02338981628418,
+      "repinned": false,
+      "address_1": "Wodkowica 21",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dsvstjysqbtb/",
+    "description": "<p>Czekamy na zgoszenia opowieci dugich i krtkich, z prezentacj i bez, przygotowanych i spontanicznych. W twojej pracy na pewno wydarzyo si co ciekawego i czego si nauczye/nauczya. To jest czas by si tym podzieli.</p> <p>A tymczasem lineup prezentuje si nastpujco:</p> <p>* Norbert Wjtowicz opowie nam o Clojurescript i React.js</p> <p>* Micha Taszycki opowie nam, dlaczego cigle warto si uczy assembly 8502 i programowania w Commodore 64</p> <p>* Robert Pankowecki - Decoupling Rails Applications in small steps</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2014-12-01",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship - Mikroserwisy",
+    "venue": {
+      "id": 22208852,
+      "name": "Kontynuacja",
+      "lat": 51.1084098815918,
+      "lon": 17.031679153442383,
+      "repinned": false,
+      "address_1": "Ofiar Owicimskich 17",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkysqbcb/",
+    "description": "<p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Wybrany temat: Mikroserwisymateriay:</p> <p><a href=\"http://www.tigerteam.dk/2014/micro-services-its-not-only-the-size-that-matters-its-also-how-you-use-them-part-1/\"><a href=\"http://www.tigerteam.dk/2014/micro-services-its-not-only-the-size-that-matters-its-also-how-you-use-them-part-1/\" class=\"linkified\">http://www.tigerteam.dk/2014/micro-services-its-not-only-the-size-that-matters-its-also-how-you-use-them-part-1/</a></a></p> <p><a href=\"http://www.tigerteam.dk/2014/micro-services-its-not-only-the-size-that-matters-its-also-how-you-use-them-part-2/\"><a href=\"http://www.tigerteam.dk/2014/micro-services-its-not-only-the-size-that-matters-its-also-how-you-use-them-part-2/\" class=\"linkified\">http://www.tigerteam.dk/2014/micro-services-its-not-only-the-size-that-matters-its-also-how-you-use-them-part-2/</a></a></p> <p><a href=\"http://www.tigerteam.dk/2014/microservices-its-not-only-the-size-that-matters-its-also-how-you-use-them-part-3/\"><a href=\"http://www.tigerteam.dk/2014/microservices-its-not-only-the-size-that-matters-its-also-how-you-use-them-part-3/\" class=\"linkified\">http://www.tigerteam.dk/2014/microservices-its-not-only-the-size-that-matters-its-also-how-you-use-them-part-3/</a></a></p> <p><a href=\"http://www.tigerteam.dk/2014/microservices-its-not-only-the-size-that-matters-its-also-how-you-use-them-part-4/\"><a href=\"http://www.tigerteam.dk/2014/microservices-its-not-only-the-size-that-matters-its-also-how-you-use-them-part-4/\" class=\"linkified\">http://www.tigerteam.dk/2014/microservices-its-not-only-the-size-that-matters-its-also-how-you-use-them-part-4/</a></a></p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1402863797000,
+    "local_date": "2014-11-17",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 21358852,
+      "name": "Pub Wodkowica 21",
+      "lat": 51.10905075073242,
+      "lon": 17.02338981628418,
+      "repinned": false,
+      "address_1": "Wodkowica 21",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dsvstjyspbwb/",
+    "description": "<p>DRUG \"prezentowany\" ju niebawem. Czekamy na zgoszenia opowieci dugich i krtkich, z prezentacj i bez, przygotowanych i spontanicznych. W twojej pracy na pewno wydarzyo si co ciekawego i czego si nauczye/nauczya. To jest czas by si tym podzieli :)</p> <p>Zgosili si ju:</p> <p>-Grzegorz Wilczyski\"Web Components - shadow side of the HTML\"</p> <p>-Wojciech Langiewicz\"Wprowadzenie do bitcoina dla programistw (przykady na bazie Javy)\"</p> <p>-Adam Stankiewiczopowie nam o \"Ruby extensions / FFI / Nix\"</p> <p>PS. Nie mamy i nigdy nie mielimy limitu zgosze.</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949816000,
+    "local_date": "2014-11-03",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship #17 Bitcoin + blockchain",
+    "venue": {
+      "id": 22208852,
+      "name": "Kontynuacja",
+      "lat": 51.1084098815918,
+      "lon": 17.031679153442383,
+      "repinned": false,
+      "address_1": "Ofiar Owicimskich 17",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkyspbfb/",
+    "description": "<p>Materiay do przeczytania przed spotkaniem:</p> <p>1.<a href=\"https://bitcoin.org/bitcoin.pdf\"><a href=\"https://bitcoin.org/bitcoin.pdf\" class=\"linkified\">https://bitcoin.org/bitcoin.pdf</a></a></p> <p>2.<a href=\"https://bitcoin.org/en/developer-guide#block-chain\"><a href=\"https://bitcoin.org/en/developer-guide#block-chain\" class=\"linkified\">https://bitcoin.org/en/developer-guide#block-chain</a></a></p> <p>3.<a href=\"https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki\"><a href=\"https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki\" class=\"linkified\">https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki</a></a> (opcjonalny)</p> <p>4.<a href=\"https://github.com/aantonop/bitcoinbook\"><a href=\"https://github.com/aantonop/bitcoinbook\" class=\"linkified\">https://github.com/aantonop/bitcoinbook</a></a> (Wersja robocza - ekstra ksika ale znacznie wykracza poza zakres spotkania)online za darmo:<a href=\"http://chimera.labs.oreilly.com/books/1234000001802/index.html\"><a href=\"http://chimera.labs.oreilly.com/books/1234000001802/index.html\" class=\"linkified\">http://chimera.labs.oreilly.com/books/1234000001802/index.html</a></a></p> <p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1402863797000,
+    "local_date": "2014-10-20",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 21358852,
+      "name": "Pub Wodkowica 21",
+      "lat": 51.10905075073242,
+      "lon": 17.02338981628418,
+      "repinned": false,
+      "address_1": "Wodkowica 21",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dsvstjysnbbc/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>\"Let's do SPA\" - Marek Piasecki</p> <p>\"Offline SPA\" - Pawe Wielgus</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1409949939000,
+    "local_date": "2014-10-06",
+    "local_time": "19:00",
+    "name": "DRUG Software Craftsmanship #16: Programowanie funkcyjne - wprowadzenie",
+    "venue": {
+      "id": 22208852,
+      "name": "Kontynuacja",
+      "lat": 51.1084098815918,
+      "lon": 17.031679153442383,
+      "repinned": false,
+      "address_1": "Ofiar Owicimskich 17",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dvzcnkysnbjb/",
+    "description": "<p>Wybrany temat: Programowanie funkcyjne - wprowadzenie</p> <p>podstawowy whitepaper:</p> <p>Can programming be liberated from the von Neumann style?: a functional style and its algebra of programs <a href=\"http://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf\"><a href=\"http://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf\" class=\"linkified\">http://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf</a></a></p> <p><a href=\"http://en.wikipedia.org/wiki/Functional_programming\"><a href=\"http://en.wikipedia.org/wiki/Functional_programming\" class=\"linkified\">http://en.wikipedia.org/wiki/Functional_programming</a></a> - szczeglnie polecam sekcj \"Concepts\"</p> <p><a href=\"http://www.scala-lang.org/docu/files/ScalaTutorial.pdf\"><a href=\"http://www.scala-lang.org/docu/files/ScalaTutorial.pdf\" class=\"linkified\">http://www.scala-lang.org/docu/files/ScalaTutorial.pdf</a></a> - mimo e dla Javowcw to warto sprbowa przej ten krtki tutorial</p> <p>&lt;a&gt;<a href=\"http://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdfhttp://www.eliza.ch/doc/wadler92essence_of_FP.pdf&lt;/a&gt\" class=\"linkified\">http://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdfhttp://www.eliza.ch/doc/wadler92essence_of_FP.pdf&lt;/a&gt</a>;</p> <p></p> <p>Comiesiczne spotkanie grupy DRUG Software Craftsmanship.</p> <p>Kade spotkanie ma inny temat, ktry jest ustalany przez obecnych na poprzednim spotkaniu i ten meetup bdzie aktualizowany gdy temat spotkania bdzie znany.</p> <p>Kady temat ma przypisane jeden lub kilka artykuw jakie naley przeczyta przed przyjciem i podczas spotkania dyskutujemy na ten temat.</p> <p>Technologia w jakiej pracujesz nie ma znaczenia, najczciej wybieramy tematy niezalene od jzyka programowania.</p> <p>Pomysy na spotkania oraz informacje o historycznych spotkaniach dostpne s na hackpadzie:<a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\"><a href=\"https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2\" class=\"linkified\">https://hackpad.com/DRUG-Software-Craftsmanship-YvzRk6UVFv2</a></a></p> "
+  },
+  {
+    "created": 1402863797000,
+    "local_date": "2014-09-15",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 21358852,
+      "name": "Pub Wodkowica 21",
+      "lat": 51.10905075073242,
+      "lon": 17.02338981628418,
+      "repinned": false,
+      "address_1": "Wodkowica 21",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dsvstjysmbtb/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>- It was supposed to be easy + bonus: what is happiness? - Robert Pankowecki</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  },
+  {
+    "created": 1402863797000,
+    "local_date": "2014-08-18",
+    "local_time": "18:30",
+    "name": "DRUG #55",
+    "venue": {
+      "id": 20115342,
+      "name": "Klubokawiarnia Mleczarnia",
+      "lat": 51.10803985595703,
+      "lon": 17.02519989013672,
+      "repinned": false,
+      "address_1": "Wodkowica 5",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dsvstjyslbxb/",
+    "description": "<p>Wybieramy si na<a href=\"http://www.meetup.com/WroclawJUG/events/200884422\"><a href=\"http://www.meetup.com/WroclawJUG/events/200884422\" class=\"linkified\">http://www.meetup.com/WroclawJUG/events/200884422</a></a> . Wymagane potwierdzenie obecnoci na tamtejszym meetupie.</p> "
+  },
+  {
+    "created": 1402863797000,
+    "local_date": "2014-07-21",
+    "local_time": "19:00",
+    "name": "DRUG monthly meetup",
+    "venue": {
+      "id": 21358852,
+      "name": "Pub Wodkowica 21",
+      "lat": 51.10905075073242,
+      "lon": 17.02338981628418,
+      "repinned": false,
+      "address_1": "Wodkowica 21",
+      "city": "Wroclaw",
+      "country": "pl",
+      "localized_country_name": "Poland"
+    },
+    "link": "https://www.meetup.com/drugpl/events/dsvstjyskbcc/",
+    "description": "<p>Zgoszone prezentacje:</p> <p>Dolnolska Grupa Uytkownikw Ruby to cykliczne spotkania pasjonatw tego jzyka programowania. Kade spotkanie jest doskona okazj wymiany dowiadcze oraz poznania ludzi, na co dzie zajmujacych si t technologi.</p> <p>Spotkania maj charakter otwartego panelu dyskusyjnego  uczestnicy wczaja sie w udzia w trakcie przygotowanych prelekcji. Zapraszamy zarwno tych zaawansowanych jak i stawiajcych pierwsze kroki w rodowisku Rubiego!</p> "
+  }
+]
